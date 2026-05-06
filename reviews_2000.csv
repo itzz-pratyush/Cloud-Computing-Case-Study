@@ -1,0 +1,2001 @@
+customer_id,product_id,rating,review_text,timestamp
+371,169,1,Poor packaging,2026-05-01 00:00:00
+312,189,4,Not satisfied,2026-05-01 00:01:00
+299,101,1,Highly recommend,2026-05-01 00:02:00
+381,129,1,Excellent!,2026-05-01 00:03:00
+272,176,3,Poor packaging,2026-05-01 00:04:00
+19,168,5,Not satisfied,2026-05-01 00:05:00
+222,193,4,Good value,2026-05-01 00:06:00
+377,104,1,Worth the price,2026-05-01 00:07:00
+478,133,2,Average experience,2026-05-01 00:08:00
+490,184,3,Average experience,2026-05-01 00:09:00
+243,156,3,Very bad quality,2026-05-01 00:10:00
+443,161,5,Highly recommend,2026-05-01 00:11:00
+123,121,1,Poor packaging,2026-05-01 00:12:00
+301,169,5,Average experience,2026-05-01 00:13:00
+98,166,1,Will not buy again,2026-05-01 00:14:00
+398,169,4,Good value,2026-05-01 00:15:00
+169,181,1,Good value,2026-05-01 00:16:00
+16,149,4,Very bad quality,2026-05-01 00:17:00
+419,113,1,Worth the price,2026-05-01 00:18:00
+417,119,4,Excellent!,2026-05-01 00:19:00
+121,160,1,Not satisfied,2026-05-01 00:20:00
+50,179,4,Worth the price,2026-05-01 00:21:00
+4,103,1,Will not buy again,2026-05-01 00:22:00
+229,195,5,Highly recommend,2026-05-01 00:23:00
+210,151,2,Average experience,2026-05-01 00:24:00
+13,162,1,Highly recommend,2026-05-01 00:25:00
+134,167,3,Highly recommend,2026-05-01 00:26:00
+295,188,5,Not satisfied,2026-05-01 00:27:00
+146,179,2,Average experience,2026-05-01 00:28:00
+410,137,2,Excellent!,2026-05-01 00:29:00
+354,134,1,Excellent!,2026-05-01 00:30:00
+364,182,4,Average experience,2026-05-01 00:31:00
+319,153,2,Highly recommend,2026-05-01 00:32:00
+426,104,1,Will not buy again,2026-05-01 00:33:00
+205,186,4,Worth the price,2026-05-01 00:34:00
+444,121,3,Average experience,2026-05-01 00:35:00
+226,114,1,Very bad quality,2026-05-01 00:36:00
+19,178,3,Not satisfied,2026-05-01 00:37:00
+264,179,5,Very bad quality,2026-05-01 00:38:00
+324,176,3,Good value,2026-05-01 00:39:00
+222,158,5,Average experience,2026-05-01 00:40:00
+285,126,2,Great product!,2026-05-01 00:41:00
+107,195,2,Good value,2026-05-01 00:42:00
+326,196,4,Not satisfied,2026-05-01 00:43:00
+104,176,1,Great product!,2026-05-01 00:44:00
+55,136,1,Good value,2026-05-01 00:45:00
+301,144,5,Not satisfied,2026-05-01 00:46:00
+171,171,5,Great product!,2026-05-01 00:47:00
+15,178,5,Not satisfied,2026-05-01 00:48:00
+402,136,5,Excellent!,2026-05-01 00:49:00
+108,130,4,Great product!,2026-05-01 00:50:00
+95,128,3,Very bad quality,2026-05-01 00:51:00
+62,190,1,Excellent!,2026-05-01 00:52:00
+433,115,5,Highly recommend,2026-05-01 00:53:00
+296,188,1,Great product!,2026-05-01 00:54:00
+347,179,1,Highly recommend,2026-05-01 00:55:00
+65,196,3,Highly recommend,2026-05-01 00:56:00
+112,176,5,Worth the price,2026-05-01 00:57:00
+10,100,1,Excellent!,2026-05-01 00:58:00
+434,156,4,Great product!,2026-05-01 00:59:00
+310,189,4,Excellent!,2026-05-01 01:00:00
+344,189,3,Excellent!,2026-05-01 01:01:00
+155,152,3,Very bad quality,2026-05-01 01:02:00
+291,112,3,Average experience,2026-05-01 01:03:00
+97,160,5,Great product!,2026-05-01 01:04:00
+55,126,4,Worth the price,2026-05-01 01:05:00
+207,109,5,Great product!,2026-05-01 01:06:00
+244,130,3,Not satisfied,2026-05-01 01:07:00
+445,103,2,Poor packaging,2026-05-01 01:08:00
+400,128,1,Will not buy again,2026-05-01 01:09:00
+461,136,3,Great product!,2026-05-01 01:10:00
+431,157,2,Poor packaging,2026-05-01 01:11:00
+37,179,1,Not satisfied,2026-05-01 01:12:00
+372,113,1,Average experience,2026-05-01 01:13:00
+286,144,3,Good value,2026-05-01 01:14:00
+13,105,3,Worth the price,2026-05-01 01:15:00
+264,143,1,Poor packaging,2026-05-01 01:16:00
+455,165,3,Worth the price,2026-05-01 01:17:00
+404,117,1,Very bad quality,2026-05-01 01:18:00
+193,184,2,Good value,2026-05-01 01:19:00
+360,109,1,Average experience,2026-05-01 01:20:00
+200,138,4,Will not buy again,2026-05-01 01:21:00
+381,157,2,Great product!,2026-05-01 01:22:00
+119,104,2,Not satisfied,2026-05-01 01:23:00
+458,178,3,Average experience,2026-05-01 01:24:00
+95,184,2,Highly recommend,2026-05-01 01:25:00
+203,136,1,Will not buy again,2026-05-01 01:26:00
+216,100,1,Will not buy again,2026-05-01 01:27:00
+455,145,2,Poor packaging,2026-05-01 01:28:00
+315,177,3,Will not buy again,2026-05-01 01:29:00
+206,117,4,Average experience,2026-05-01 01:30:00
+156,147,2,Not satisfied,2026-05-01 01:31:00
+482,123,5,Average experience,2026-05-01 01:32:00
+59,167,4,Worth the price,2026-05-01 01:33:00
+71,150,5,Great product!,2026-05-01 01:34:00
+417,155,2,Good value,2026-05-01 01:35:00
+217,112,3,Not satisfied,2026-05-01 01:36:00
+89,188,1,Will not buy again,2026-05-01 01:37:00
+381,199,4,Great product!,2026-05-01 01:38:00
+438,159,2,Great product!,2026-05-01 01:39:00
+169,145,1,Great product!,2026-05-01 01:40:00
+140,124,1,Excellent!,2026-05-01 01:41:00
+53,142,4,Good value,2026-05-01 01:42:00
+96,118,1,Not satisfied,2026-05-01 01:43:00
+370,120,2,Great product!,2026-05-01 01:44:00
+48,160,2,Poor packaging,2026-05-01 01:45:00
+349,129,3,Poor packaging,2026-05-01 01:46:00
+230,154,5,Average experience,2026-05-01 01:47:00
+113,152,3,Highly recommend,2026-05-01 01:48:00
+33,182,3,Not satisfied,2026-05-01 01:49:00
+268,198,5,Average experience,2026-05-01 01:50:00
+60,129,1,Average experience,2026-05-01 01:51:00
+487,165,4,Worth the price,2026-05-01 01:52:00
+218,145,1,Very bad quality,2026-05-01 01:53:00
+192,155,4,Good value,2026-05-01 01:54:00
+279,122,4,Great product!,2026-05-01 01:55:00
+346,141,1,Excellent!,2026-05-01 01:56:00
+445,146,5,Poor packaging,2026-05-01 01:57:00
+370,148,1,Poor packaging,2026-05-01 01:58:00
+389,178,1,Poor packaging,2026-05-01 01:59:00
+337,109,2,Highly recommend,2026-05-01 02:00:00
+385,160,1,Good value,2026-05-01 02:01:00
+218,181,5,Highly recommend,2026-05-01 02:02:00
+322,152,5,Poor packaging,2026-05-01 02:03:00
+303,148,2,Worth the price,2026-05-01 02:04:00
+128,153,5,Excellent!,2026-05-01 02:05:00
+241,142,4,Highly recommend,2026-05-01 02:06:00
+136,188,3,Highly recommend,2026-05-01 02:07:00
+454,100,2,Average experience,2026-05-01 02:08:00
+108,164,5,Average experience,2026-05-01 02:09:00
+93,185,1,Will not buy again,2026-05-01 02:10:00
+404,115,2,Good value,2026-05-01 02:11:00
+230,154,4,Highly recommend,2026-05-01 02:12:00
+43,148,5,Excellent!,2026-05-01 02:13:00
+85,117,3,Worth the price,2026-05-01 02:14:00
+449,109,4,Great product!,2026-05-01 02:15:00
+71,172,5,Worth the price,2026-05-01 02:16:00
+340,165,1,Average experience,2026-05-01 02:17:00
+99,108,2,Very bad quality,2026-05-01 02:18:00
+340,150,5,Highly recommend,2026-05-01 02:19:00
+196,164,5,Worth the price,2026-05-01 02:20:00
+253,190,4,Great product!,2026-05-01 02:21:00
+366,100,4,Highly recommend,2026-05-01 02:22:00
+91,193,4,Good value,2026-05-01 02:23:00
+335,107,2,Very bad quality,2026-05-01 02:24:00
+336,108,4,Very bad quality,2026-05-01 02:25:00
+73,116,1,Excellent!,2026-05-01 02:26:00
+236,171,3,Average experience,2026-05-01 02:27:00
+275,169,1,Very bad quality,2026-05-01 02:28:00
+348,122,5,Worth the price,2026-05-01 02:29:00
+487,139,4,Will not buy again,2026-05-01 02:30:00
+312,191,1,Not satisfied,2026-05-01 02:31:00
+17,143,2,Good value,2026-05-01 02:32:00
+474,117,4,Worth the price,2026-05-01 02:33:00
+399,194,1,Average experience,2026-05-01 02:34:00
+385,183,1,Will not buy again,2026-05-01 02:35:00
+148,188,3,Excellent!,2026-05-01 02:36:00
+243,176,2,Will not buy again,2026-05-01 02:37:00
+258,120,1,Will not buy again,2026-05-01 02:38:00
+499,105,2,Highly recommend,2026-05-01 02:39:00
+106,199,2,Poor packaging,2026-05-01 02:40:00
+483,163,4,Worth the price,2026-05-01 02:41:00
+471,187,3,Very bad quality,2026-05-01 02:42:00
+340,138,4,Average experience,2026-05-01 02:43:00
+65,136,1,Not satisfied,2026-05-01 02:44:00
+256,153,5,Excellent!,2026-05-01 02:45:00
+220,147,1,Very bad quality,2026-05-01 02:46:00
+100,125,4,Not satisfied,2026-05-01 02:47:00
+175,127,3,Poor packaging,2026-05-01 02:48:00
+146,128,4,Good value,2026-05-01 02:49:00
+275,116,5,Worth the price,2026-05-01 02:50:00
+425,185,5,Very bad quality,2026-05-01 02:51:00
+96,171,3,Very bad quality,2026-05-01 02:52:00
+235,174,1,Very bad quality,2026-05-01 02:53:00
+157,174,4,Highly recommend,2026-05-01 02:54:00
+97,161,5,Highly recommend,2026-05-01 02:55:00
+302,194,4,Poor packaging,2026-05-01 02:56:00
+306,170,2,Not satisfied,2026-05-01 02:57:00
+405,131,3,Poor packaging,2026-05-01 02:58:00
+233,150,5,Very bad quality,2026-05-01 02:59:00
+7,116,4,Good value,2026-05-01 03:00:00
+122,180,3,Great product!,2026-05-01 03:01:00
+246,174,1,Worth the price,2026-05-01 03:02:00
+246,184,5,Worth the price,2026-05-01 03:03:00
+153,172,3,Good value,2026-05-01 03:04:00
+29,103,1,Highly recommend,2026-05-01 03:05:00
+363,101,2,Excellent!,2026-05-01 03:06:00
+106,100,5,Average experience,2026-05-01 03:07:00
+358,182,4,Average experience,2026-05-01 03:08:00
+93,127,3,Poor packaging,2026-05-01 03:09:00
+427,147,5,Highly recommend,2026-05-01 03:10:00
+386,117,1,Very bad quality,2026-05-01 03:11:00
+322,137,1,Good value,2026-05-01 03:12:00
+476,150,4,Excellent!,2026-05-01 03:13:00
+51,109,4,Not satisfied,2026-05-01 03:14:00
+258,115,5,Will not buy again,2026-05-01 03:15:00
+178,134,2,Very bad quality,2026-05-01 03:16:00
+183,135,3,Great product!,2026-05-01 03:17:00
+286,128,5,Poor packaging,2026-05-01 03:18:00
+236,151,5,Excellent!,2026-05-01 03:19:00
+245,122,1,Very bad quality,2026-05-01 03:20:00
+221,173,4,Average experience,2026-05-01 03:21:00
+20,175,3,Not satisfied,2026-05-01 03:22:00
+139,137,2,Not satisfied,2026-05-01 03:23:00
+479,115,4,Great product!,2026-05-01 03:24:00
+216,174,1,Excellent!,2026-05-01 03:25:00
+99,185,4,Very bad quality,2026-05-01 03:26:00
+28,166,5,Good value,2026-05-01 03:27:00
+8,105,5,Great product!,2026-05-01 03:28:00
+110,127,3,Very bad quality,2026-05-01 03:29:00
+294,129,2,Will not buy again,2026-05-01 03:30:00
+125,140,2,Average experience,2026-05-01 03:31:00
+130,153,5,Good value,2026-05-01 03:32:00
+54,141,2,Average experience,2026-05-01 03:33:00
+329,180,3,Highly recommend,2026-05-01 03:34:00
+9,152,3,Worth the price,2026-05-01 03:35:00
+205,129,1,Very bad quality,2026-05-01 03:36:00
+205,126,1,Good value,2026-05-01 03:37:00
+68,184,2,Great product!,2026-05-01 03:38:00
+453,187,4,Will not buy again,2026-05-01 03:39:00
+336,105,1,Good value,2026-05-01 03:40:00
+101,111,3,Great product!,2026-05-01 03:41:00
+349,183,3,Excellent!,2026-05-01 03:42:00
+259,150,3,Very bad quality,2026-05-01 03:43:00
+277,140,2,Great product!,2026-05-01 03:44:00
+237,196,4,Poor packaging,2026-05-01 03:45:00
+360,187,5,Highly recommend,2026-05-01 03:46:00
+117,103,2,Very bad quality,2026-05-01 03:47:00
+374,146,1,Will not buy again,2026-05-01 03:48:00
+385,114,5,Worth the price,2026-05-01 03:49:00
+201,184,1,Worth the price,2026-05-01 03:50:00
+262,154,3,Great product!,2026-05-01 03:51:00
+245,198,2,Excellent!,2026-05-01 03:52:00
+65,176,3,Poor packaging,2026-05-01 03:53:00
+408,143,2,Highly recommend,2026-05-01 03:54:00
+171,124,2,Not satisfied,2026-05-01 03:55:00
+217,166,1,Excellent!,2026-05-01 03:56:00
+75,144,5,Will not buy again,2026-05-01 03:57:00
+143,188,3,Highly recommend,2026-05-01 03:58:00
+125,105,4,Good value,2026-05-01 03:59:00
+245,101,4,Not satisfied,2026-05-01 04:00:00
+201,100,3,Good value,2026-05-01 04:01:00
+256,166,3,Poor packaging,2026-05-01 04:02:00
+469,164,2,Excellent!,2026-05-01 04:03:00
+465,113,1,Poor packaging,2026-05-01 04:04:00
+255,178,4,Excellent!,2026-05-01 04:05:00
+139,191,4,Excellent!,2026-05-01 04:06:00
+15,141,3,Will not buy again,2026-05-01 04:07:00
+381,180,4,Highly recommend,2026-05-01 04:08:00
+247,101,1,Not satisfied,2026-05-01 04:09:00
+350,188,2,Poor packaging,2026-05-01 04:10:00
+117,125,1,Poor packaging,2026-05-01 04:11:00
+295,123,2,Good value,2026-05-01 04:12:00
+250,159,5,Excellent!,2026-05-01 04:13:00
+178,144,2,Average experience,2026-05-01 04:14:00
+76,159,5,Average experience,2026-05-01 04:15:00
+343,172,3,Excellent!,2026-05-01 04:16:00
+89,107,2,Very bad quality,2026-05-01 04:17:00
+487,109,2,Not satisfied,2026-05-01 04:18:00
+348,195,4,Highly recommend,2026-05-01 04:19:00
+117,105,5,Worth the price,2026-05-01 04:20:00
+483,115,2,Poor packaging,2026-05-01 04:21:00
+402,121,3,Worth the price,2026-05-01 04:22:00
+117,122,2,Great product!,2026-05-01 04:23:00
+399,130,3,Highly recommend,2026-05-01 04:24:00
+325,131,2,Very bad quality,2026-05-01 04:25:00
+223,178,3,Highly recommend,2026-05-01 04:26:00
+252,120,4,Great product!,2026-05-01 04:27:00
+436,141,4,Good value,2026-05-01 04:28:00
+412,143,2,Average experience,2026-05-01 04:29:00
+444,133,1,Good value,2026-05-01 04:30:00
+11,111,2,Very bad quality,2026-05-01 04:31:00
+191,110,4,Great product!,2026-05-01 04:32:00
+468,169,1,Worth the price,2026-05-01 04:33:00
+298,123,3,Excellent!,2026-05-01 04:34:00
+378,135,4,Worth the price,2026-05-01 04:35:00
+306,185,3,Not satisfied,2026-05-01 04:36:00
+214,157,2,Average experience,2026-05-01 04:37:00
+174,104,4,Worth the price,2026-05-01 04:38:00
+453,162,3,Great product!,2026-05-01 04:39:00
+65,159,5,Excellent!,2026-05-01 04:40:00
+462,168,4,Very bad quality,2026-05-01 04:41:00
+157,166,4,Poor packaging,2026-05-01 04:42:00
+311,135,1,Good value,2026-05-01 04:43:00
+173,121,4,Excellent!,2026-05-01 04:44:00
+329,166,1,Average experience,2026-05-01 04:45:00
+127,100,1,Excellent!,2026-05-01 04:46:00
+175,187,3,Worth the price,2026-05-01 04:47:00
+143,145,2,Good value,2026-05-01 04:48:00
+276,168,4,Average experience,2026-05-01 04:49:00
+387,168,2,Great product!,2026-05-01 04:50:00
+439,170,1,Good value,2026-05-01 04:51:00
+73,143,4,Average experience,2026-05-01 04:52:00
+58,184,1,Worth the price,2026-05-01 04:53:00
+188,142,1,Poor packaging,2026-05-01 04:54:00
+133,156,2,Poor packaging,2026-05-01 04:55:00
+12,175,3,Average experience,2026-05-01 04:56:00
+210,193,4,Will not buy again,2026-05-01 04:57:00
+72,154,3,Excellent!,2026-05-01 04:58:00
+486,199,2,Poor packaging,2026-05-01 04:59:00
+386,134,5,Poor packaging,2026-05-01 05:00:00
+264,174,5,Great product!,2026-05-01 05:01:00
+308,127,5,Not satisfied,2026-05-01 05:02:00
+166,172,1,Worth the price,2026-05-01 05:03:00
+249,145,3,Good value,2026-05-01 05:04:00
+270,143,3,Will not buy again,2026-05-01 05:05:00
+258,181,5,Highly recommend,2026-05-01 05:06:00
+52,154,3,Excellent!,2026-05-01 05:07:00
+61,164,4,Not satisfied,2026-05-01 05:08:00
+5,166,1,Highly recommend,2026-05-01 05:09:00
+70,131,1,Very bad quality,2026-05-01 05:10:00
+181,169,3,Poor packaging,2026-05-01 05:11:00
+447,102,4,Poor packaging,2026-05-01 05:12:00
+137,193,5,Not satisfied,2026-05-01 05:13:00
+97,131,2,Will not buy again,2026-05-01 05:14:00
+150,131,4,Great product!,2026-05-01 05:15:00
+112,163,1,Poor packaging,2026-05-01 05:16:00
+121,195,3,Highly recommend,2026-05-01 05:17:00
+226,196,3,Poor packaging,2026-05-01 05:18:00
+270,144,1,Average experience,2026-05-01 05:19:00
+236,147,3,Highly recommend,2026-05-01 05:20:00
+192,183,1,Highly recommend,2026-05-01 05:21:00
+257,183,3,Great product!,2026-05-01 05:22:00
+98,187,5,Poor packaging,2026-05-01 05:23:00
+347,173,3,Average experience,2026-05-01 05:24:00
+146,152,4,Poor packaging,2026-05-01 05:25:00
+233,118,3,Average experience,2026-05-01 05:26:00
+356,133,3,Worth the price,2026-05-01 05:27:00
+381,105,3,Poor packaging,2026-05-01 05:28:00
+50,139,2,Poor packaging,2026-05-01 05:29:00
+426,135,3,Worth the price,2026-05-01 05:30:00
+487,100,5,Poor packaging,2026-05-01 05:31:00
+49,126,4,Will not buy again,2026-05-01 05:32:00
+350,197,5,Great product!,2026-05-01 05:33:00
+42,107,5,Will not buy again,2026-05-01 05:34:00
+197,162,5,Very bad quality,2026-05-01 05:35:00
+285,120,5,Poor packaging,2026-05-01 05:36:00
+345,172,4,Poor packaging,2026-05-01 05:37:00
+470,179,1,Good value,2026-05-01 05:38:00
+282,181,3,Will not buy again,2026-05-01 05:39:00
+394,164,3,Poor packaging,2026-05-01 05:40:00
+165,195,4,Average experience,2026-05-01 05:41:00
+450,112,3,Good value,2026-05-01 05:42:00
+160,144,3,Great product!,2026-05-01 05:43:00
+49,140,5,Great product!,2026-05-01 05:44:00
+64,123,2,Average experience,2026-05-01 05:45:00
+102,152,5,Highly recommend,2026-05-01 05:46:00
+439,189,5,Excellent!,2026-05-01 05:47:00
+192,197,5,Very bad quality,2026-05-01 05:48:00
+470,119,3,Highly recommend,2026-05-01 05:49:00
+105,128,1,Will not buy again,2026-05-01 05:50:00
+425,127,1,Average experience,2026-05-01 05:51:00
+358,135,3,Very bad quality,2026-05-01 05:52:00
+423,126,2,Great product!,2026-05-01 05:53:00
+188,115,2,Great product!,2026-05-01 05:54:00
+5,188,4,Highly recommend,2026-05-01 05:55:00
+364,100,5,Highly recommend,2026-05-01 05:56:00
+226,166,4,Great product!,2026-05-01 05:57:00
+417,119,1,Average experience,2026-05-01 05:58:00
+483,118,2,Average experience,2026-05-01 05:59:00
+5,101,1,Worth the price,2026-05-01 06:00:00
+195,136,5,Worth the price,2026-05-01 06:01:00
+240,124,2,Very bad quality,2026-05-01 06:02:00
+187,173,3,Highly recommend,2026-05-01 06:03:00
+414,102,2,Excellent!,2026-05-01 06:04:00
+73,185,2,Average experience,2026-05-01 06:05:00
+404,163,1,Worth the price,2026-05-01 06:06:00
+21,138,3,Excellent!,2026-05-01 06:07:00
+12,111,4,Poor packaging,2026-05-01 06:08:00
+291,104,2,Excellent!,2026-05-01 06:09:00
+171,106,2,Worth the price,2026-05-01 06:10:00
+274,111,5,Excellent!,2026-05-01 06:11:00
+89,161,5,Poor packaging,2026-05-01 06:12:00
+332,143,1,Good value,2026-05-01 06:13:00
+453,197,3,Poor packaging,2026-05-01 06:14:00
+34,133,3,Worth the price,2026-05-01 06:15:00
+493,152,3,Not satisfied,2026-05-01 06:16:00
+156,125,2,Not satisfied,2026-05-01 06:17:00
+375,161,4,Good value,2026-05-01 06:18:00
+363,197,3,Very bad quality,2026-05-01 06:19:00
+198,178,3,Worth the price,2026-05-01 06:20:00
+224,163,5,Worth the price,2026-05-01 06:21:00
+325,161,4,Highly recommend,2026-05-01 06:22:00
+293,100,4,Great product!,2026-05-01 06:23:00
+297,109,4,Good value,2026-05-01 06:24:00
+99,199,5,Not satisfied,2026-05-01 06:25:00
+63,198,2,Highly recommend,2026-05-01 06:26:00
+312,122,3,Very bad quality,2026-05-01 06:27:00
+296,142,5,Worth the price,2026-05-01 06:28:00
+161,165,1,Average experience,2026-05-01 06:29:00
+335,170,2,Not satisfied,2026-05-01 06:30:00
+351,186,2,Good value,2026-05-01 06:31:00
+31,193,2,Very bad quality,2026-05-01 06:32:00
+478,155,2,Average experience,2026-05-01 06:33:00
+423,132,2,Will not buy again,2026-05-01 06:34:00
+307,105,4,Great product!,2026-05-01 06:35:00
+69,131,5,Good value,2026-05-01 06:36:00
+359,105,4,Average experience,2026-05-01 06:37:00
+235,147,1,Very bad quality,2026-05-01 06:38:00
+148,113,5,Poor packaging,2026-05-01 06:39:00
+338,187,4,Will not buy again,2026-05-01 06:40:00
+147,102,1,Poor packaging,2026-05-01 06:41:00
+115,131,5,Great product!,2026-05-01 06:42:00
+204,177,5,Highly recommend,2026-05-01 06:43:00
+241,114,1,Excellent!,2026-05-01 06:44:00
+460,189,5,Worth the price,2026-05-01 06:45:00
+319,191,1,Very bad quality,2026-05-01 06:46:00
+290,199,1,Great product!,2026-05-01 06:47:00
+320,131,5,Will not buy again,2026-05-01 06:48:00
+313,103,4,Poor packaging,2026-05-01 06:49:00
+292,182,2,Excellent!,2026-05-01 06:50:00
+276,167,5,Worth the price,2026-05-01 06:51:00
+181,167,3,Not satisfied,2026-05-01 06:52:00
+96,105,4,Very bad quality,2026-05-01 06:53:00
+286,137,2,Poor packaging,2026-05-01 06:54:00
+191,105,5,Poor packaging,2026-05-01 06:55:00
+467,177,4,Good value,2026-05-01 06:56:00
+378,100,3,Excellent!,2026-05-01 06:57:00
+417,173,2,Average experience,2026-05-01 06:58:00
+447,132,1,Worth the price,2026-05-01 06:59:00
+488,187,3,Good value,2026-05-01 07:00:00
+167,107,5,Highly recommend,2026-05-01 07:01:00
+231,157,2,Excellent!,2026-05-01 07:02:00
+47,188,3,Poor packaging,2026-05-01 07:03:00
+430,132,4,Excellent!,2026-05-01 07:04:00
+308,141,1,Very bad quality,2026-05-01 07:05:00
+170,150,1,Excellent!,2026-05-01 07:06:00
+302,156,2,Not satisfied,2026-05-01 07:07:00
+127,196,3,Highly recommend,2026-05-01 07:08:00
+374,127,3,Very bad quality,2026-05-01 07:09:00
+338,158,3,Poor packaging,2026-05-01 07:10:00
+459,120,4,Worth the price,2026-05-01 07:11:00
+255,169,3,Average experience,2026-05-01 07:12:00
+289,128,2,Average experience,2026-05-01 07:13:00
+442,136,5,Very bad quality,2026-05-01 07:14:00
+234,154,4,Not satisfied,2026-05-01 07:15:00
+63,174,2,Excellent!,2026-05-01 07:16:00
+139,114,3,Worth the price,2026-05-01 07:17:00
+114,109,3,Worth the price,2026-05-01 07:18:00
+274,164,3,Not satisfied,2026-05-01 07:19:00
+238,172,2,Will not buy again,2026-05-01 07:20:00
+469,125,2,Very bad quality,2026-05-01 07:21:00
+243,143,3,Average experience,2026-05-01 07:22:00
+432,177,5,Poor packaging,2026-05-01 07:23:00
+385,139,3,Poor packaging,2026-05-01 07:24:00
+159,173,4,Average experience,2026-05-01 07:25:00
+376,196,5,Worth the price,2026-05-01 07:26:00
+27,127,4,Worth the price,2026-05-01 07:27:00
+375,178,5,Average experience,2026-05-01 07:28:00
+187,109,5,Highly recommend,2026-05-01 07:29:00
+227,140,4,Average experience,2026-05-01 07:30:00
+357,106,5,Excellent!,2026-05-01 07:31:00
+349,192,5,Great product!,2026-05-01 07:32:00
+435,141,3,Good value,2026-05-01 07:33:00
+154,151,2,Will not buy again,2026-05-01 07:34:00
+464,184,1,Average experience,2026-05-01 07:35:00
+192,120,1,Poor packaging,2026-05-01 07:36:00
+430,133,2,Not satisfied,2026-05-01 07:37:00
+470,151,1,Poor packaging,2026-05-01 07:38:00
+475,105,3,Average experience,2026-05-01 07:39:00
+134,111,3,Very bad quality,2026-05-01 07:40:00
+406,174,4,Worth the price,2026-05-01 07:41:00
+316,125,4,Good value,2026-05-01 07:42:00
+112,150,4,Worth the price,2026-05-01 07:43:00
+374,158,1,Good value,2026-05-01 07:44:00
+384,161,1,Good value,2026-05-01 07:45:00
+359,114,3,Great product!,2026-05-01 07:46:00
+80,143,1,Highly recommend,2026-05-01 07:47:00
+313,169,5,Very bad quality,2026-05-01 07:48:00
+160,146,2,Very bad quality,2026-05-01 07:49:00
+467,199,4,Very bad quality,2026-05-01 07:50:00
+4,130,1,Poor packaging,2026-05-01 07:51:00
+223,147,5,Excellent!,2026-05-01 07:52:00
+274,130,2,Average experience,2026-05-01 07:53:00
+299,146,3,Highly recommend,2026-05-01 07:54:00
+52,160,3,Worth the price,2026-05-01 07:55:00
+499,134,2,Excellent!,2026-05-01 07:56:00
+281,175,2,Great product!,2026-05-01 07:57:00
+346,172,2,Excellent!,2026-05-01 07:58:00
+246,116,1,Highly recommend,2026-05-01 07:59:00
+1,160,2,Great product!,2026-05-01 08:00:00
+405,187,1,Poor packaging,2026-05-01 08:01:00
+471,146,2,Not satisfied,2026-05-01 08:02:00
+31,138,3,Great product!,2026-05-01 08:03:00
+289,164,2,Very bad quality,2026-05-01 08:04:00
+406,157,5,Poor packaging,2026-05-01 08:05:00
+310,157,4,Average experience,2026-05-01 08:06:00
+438,172,1,Average experience,2026-05-01 08:07:00
+107,108,5,Average experience,2026-05-01 08:08:00
+237,130,1,Highly recommend,2026-05-01 08:09:00
+344,156,3,Average experience,2026-05-01 08:10:00
+295,160,5,Poor packaging,2026-05-01 08:11:00
+417,149,2,Worth the price,2026-05-01 08:12:00
+358,119,2,Will not buy again,2026-05-01 08:13:00
+65,170,5,Great product!,2026-05-01 08:14:00
+66,119,4,Good value,2026-05-01 08:15:00
+292,155,4,Will not buy again,2026-05-01 08:16:00
+102,171,1,Good value,2026-05-01 08:17:00
+150,167,1,Average experience,2026-05-01 08:18:00
+141,177,4,Worth the price,2026-05-01 08:19:00
+38,107,4,Great product!,2026-05-01 08:20:00
+474,179,4,Very bad quality,2026-05-01 08:21:00
+89,192,2,Great product!,2026-05-01 08:22:00
+76,169,5,Highly recommend,2026-05-01 08:23:00
+256,160,3,Will not buy again,2026-05-01 08:24:00
+348,117,5,Worth the price,2026-05-01 08:25:00
+12,110,4,Not satisfied,2026-05-01 08:26:00
+200,116,2,Excellent!,2026-05-01 08:27:00
+257,179,1,Great product!,2026-05-01 08:28:00
+406,162,3,Highly recommend,2026-05-01 08:29:00
+430,187,4,Excellent!,2026-05-01 08:30:00
+32,184,5,Good value,2026-05-01 08:31:00
+274,185,2,Excellent!,2026-05-01 08:32:00
+223,167,1,Will not buy again,2026-05-01 08:33:00
+12,145,1,Good value,2026-05-01 08:34:00
+286,162,5,Poor packaging,2026-05-01 08:35:00
+75,196,5,Not satisfied,2026-05-01 08:36:00
+287,148,3,Very bad quality,2026-05-01 08:37:00
+323,189,1,Highly recommend,2026-05-01 08:38:00
+26,197,1,Highly recommend,2026-05-01 08:39:00
+271,179,3,Will not buy again,2026-05-01 08:40:00
+274,100,3,Highly recommend,2026-05-01 08:41:00
+446,106,4,Worth the price,2026-05-01 08:42:00
+112,156,5,Not satisfied,2026-05-01 08:43:00
+229,175,3,Average experience,2026-05-01 08:44:00
+291,150,4,Poor packaging,2026-05-01 08:45:00
+176,199,2,Very bad quality,2026-05-01 08:46:00
+420,124,3,Worth the price,2026-05-01 08:47:00
+338,141,4,Worth the price,2026-05-01 08:48:00
+230,196,1,Highly recommend,2026-05-01 08:49:00
+335,168,2,Average experience,2026-05-01 08:50:00
+198,179,5,Good value,2026-05-01 08:51:00
+25,187,1,Very bad quality,2026-05-01 08:52:00
+375,176,5,Highly recommend,2026-05-01 08:53:00
+104,151,2,Highly recommend,2026-05-01 08:54:00
+290,141,2,Not satisfied,2026-05-01 08:55:00
+42,170,5,Poor packaging,2026-05-01 08:56:00
+150,189,2,Good value,2026-05-01 08:57:00
+342,127,2,Very bad quality,2026-05-01 08:58:00
+131,131,3,Not satisfied,2026-05-01 08:59:00
+56,147,5,Great product!,2026-05-01 09:00:00
+270,103,3,Good value,2026-05-01 09:01:00
+169,181,1,Worth the price,2026-05-01 09:02:00
+461,187,5,Excellent!,2026-05-01 09:03:00
+69,154,5,Very bad quality,2026-05-01 09:04:00
+377,117,5,Not satisfied,2026-05-01 09:05:00
+375,152,4,Great product!,2026-05-01 09:06:00
+25,152,1,Worth the price,2026-05-01 09:07:00
+396,128,2,Worth the price,2026-05-01 09:08:00
+65,172,4,Very bad quality,2026-05-01 09:09:00
+317,123,5,Good value,2026-05-01 09:10:00
+489,129,5,Worth the price,2026-05-01 09:11:00
+478,170,3,Will not buy again,2026-05-01 09:12:00
+37,141,5,Will not buy again,2026-05-01 09:13:00
+2,197,3,Excellent!,2026-05-01 09:14:00
+431,127,4,Will not buy again,2026-05-01 09:15:00
+355,152,4,Very bad quality,2026-05-01 09:16:00
+75,199,5,Great product!,2026-05-01 09:17:00
+304,158,4,Good value,2026-05-01 09:18:00
+80,162,1,Not satisfied,2026-05-01 09:19:00
+112,147,3,Great product!,2026-05-01 09:20:00
+154,135,3,Poor packaging,2026-05-01 09:21:00
+341,165,3,Great product!,2026-05-01 09:22:00
+252,166,1,Will not buy again,2026-05-01 09:23:00
+48,164,3,Poor packaging,2026-05-01 09:24:00
+303,102,3,Worth the price,2026-05-01 09:25:00
+332,105,1,Poor packaging,2026-05-01 09:26:00
+259,122,5,Highly recommend,2026-05-01 09:27:00
+4,187,4,Will not buy again,2026-05-01 09:28:00
+151,138,2,Good value,2026-05-01 09:29:00
+359,196,4,Not satisfied,2026-05-01 09:30:00
+119,139,2,Good value,2026-05-01 09:31:00
+278,186,4,Average experience,2026-05-01 09:32:00
+191,102,5,Great product!,2026-05-01 09:33:00
+439,139,5,Worth the price,2026-05-01 09:34:00
+21,133,1,Worth the price,2026-05-01 09:35:00
+48,158,3,Worth the price,2026-05-01 09:36:00
+325,150,3,Very bad quality,2026-05-01 09:37:00
+272,146,4,Highly recommend,2026-05-01 09:38:00
+471,179,1,Highly recommend,2026-05-01 09:39:00
+189,144,1,Good value,2026-05-01 09:40:00
+50,156,1,Excellent!,2026-05-01 09:41:00
+180,147,1,Poor packaging,2026-05-01 09:42:00
+168,144,2,Worth the price,2026-05-01 09:43:00
+46,135,4,Good value,2026-05-01 09:44:00
+413,112,5,Very bad quality,2026-05-01 09:45:00
+408,179,5,Great product!,2026-05-01 09:46:00
+18,166,4,Very bad quality,2026-05-01 09:47:00
+154,187,1,Very bad quality,2026-05-01 09:48:00
+63,197,5,Good value,2026-05-01 09:49:00
+453,187,2,Good value,2026-05-01 09:50:00
+19,155,5,Great product!,2026-05-01 09:51:00
+4,142,4,Highly recommend,2026-05-01 09:52:00
+74,171,1,Highly recommend,2026-05-01 09:53:00
+35,108,5,Poor packaging,2026-05-01 09:54:00
+46,187,5,Good value,2026-05-01 09:55:00
+137,196,5,Excellent!,2026-05-01 09:56:00
+167,173,4,Very bad quality,2026-05-01 09:57:00
+71,169,1,Good value,2026-05-01 09:58:00
+365,148,4,Great product!,2026-05-01 09:59:00
+209,173,1,Not satisfied,2026-05-01 10:00:00
+75,193,1,Highly recommend,2026-05-01 10:01:00
+151,199,1,Very bad quality,2026-05-01 10:02:00
+336,130,3,Not satisfied,2026-05-01 10:03:00
+347,118,3,Poor packaging,2026-05-01 10:04:00
+165,198,5,Poor packaging,2026-05-01 10:05:00
+457,133,3,Not satisfied,2026-05-01 10:06:00
+281,178,4,Worth the price,2026-05-01 10:07:00
+376,147,3,Will not buy again,2026-05-01 10:08:00
+229,114,1,Not satisfied,2026-05-01 10:09:00
+2,146,2,Excellent!,2026-05-01 10:10:00
+296,180,1,Will not buy again,2026-05-01 10:11:00
+136,108,2,Excellent!,2026-05-01 10:12:00
+105,194,1,Good value,2026-05-01 10:13:00
+472,123,2,Very bad quality,2026-05-01 10:14:00
+352,152,4,Great product!,2026-05-01 10:15:00
+485,165,2,Excellent!,2026-05-01 10:16:00
+293,154,5,Very bad quality,2026-05-01 10:17:00
+50,101,1,Not satisfied,2026-05-01 10:18:00
+232,170,4,Good value,2026-05-01 10:19:00
+192,155,3,Good value,2026-05-01 10:20:00
+93,191,5,Great product!,2026-05-01 10:21:00
+441,125,2,Highly recommend,2026-05-01 10:22:00
+145,108,3,Highly recommend,2026-05-01 10:23:00
+396,166,5,Good value,2026-05-01 10:24:00
+40,123,1,Great product!,2026-05-01 10:25:00
+122,139,2,Not satisfied,2026-05-01 10:26:00
+297,176,5,Great product!,2026-05-01 10:27:00
+406,155,4,Poor packaging,2026-05-01 10:28:00
+363,199,1,Highly recommend,2026-05-01 10:29:00
+358,166,4,Highly recommend,2026-05-01 10:30:00
+426,112,1,Highly recommend,2026-05-01 10:31:00
+113,176,4,Highly recommend,2026-05-01 10:32:00
+350,164,5,Good value,2026-05-01 10:33:00
+421,199,2,Great product!,2026-05-01 10:34:00
+382,166,5,Poor packaging,2026-05-01 10:35:00
+111,114,3,Not satisfied,2026-05-01 10:36:00
+26,102,4,Not satisfied,2026-05-01 10:37:00
+191,186,1,Very bad quality,2026-05-01 10:38:00
+20,117,5,Average experience,2026-05-01 10:39:00
+142,193,2,Not satisfied,2026-05-01 10:40:00
+3,173,3,Not satisfied,2026-05-01 10:41:00
+143,141,1,Will not buy again,2026-05-01 10:42:00
+85,126,2,Highly recommend,2026-05-01 10:43:00
+226,119,4,Excellent!,2026-05-01 10:44:00
+412,125,2,Worth the price,2026-05-01 10:45:00
+86,149,1,Great product!,2026-05-01 10:46:00
+172,129,4,Average experience,2026-05-01 10:47:00
+126,142,3,Will not buy again,2026-05-01 10:48:00
+401,133,5,Excellent!,2026-05-01 10:49:00
+172,112,5,Good value,2026-05-01 10:50:00
+440,128,3,Excellent!,2026-05-01 10:51:00
+339,175,5,Good value,2026-05-01 10:52:00
+283,178,3,Highly recommend,2026-05-01 10:53:00
+38,157,4,Average experience,2026-05-01 10:54:00
+419,142,2,Not satisfied,2026-05-01 10:55:00
+167,102,1,Poor packaging,2026-05-01 10:56:00
+482,185,4,Very bad quality,2026-05-01 10:57:00
+475,109,2,Excellent!,2026-05-01 10:58:00
+60,118,4,Worth the price,2026-05-01 10:59:00
+484,152,3,Excellent!,2026-05-01 11:00:00
+205,188,5,Very bad quality,2026-05-01 11:01:00
+325,137,3,Worth the price,2026-05-01 11:02:00
+174,119,2,Average experience,2026-05-01 11:03:00
+150,106,4,Good value,2026-05-01 11:04:00
+422,132,3,Good value,2026-05-01 11:05:00
+343,137,5,Great product!,2026-05-01 11:06:00
+367,136,3,Not satisfied,2026-05-01 11:07:00
+63,135,3,Not satisfied,2026-05-01 11:08:00
+147,157,4,Good value,2026-05-01 11:09:00
+139,162,5,Highly recommend,2026-05-01 11:10:00
+127,179,1,Not satisfied,2026-05-01 11:11:00
+429,108,1,Great product!,2026-05-01 11:12:00
+311,114,1,Great product!,2026-05-01 11:13:00
+165,166,1,Good value,2026-05-01 11:14:00
+176,154,3,Good value,2026-05-01 11:15:00
+54,136,5,Very bad quality,2026-05-01 11:16:00
+264,157,5,Average experience,2026-05-01 11:17:00
+498,197,5,Worth the price,2026-05-01 11:18:00
+319,166,2,Will not buy again,2026-05-01 11:19:00
+448,112,4,Good value,2026-05-01 11:20:00
+22,138,4,Highly recommend,2026-05-01 11:21:00
+73,153,2,Good value,2026-05-01 11:22:00
+110,197,2,Very bad quality,2026-05-01 11:23:00
+417,142,3,Not satisfied,2026-05-01 11:24:00
+210,100,4,Highly recommend,2026-05-01 11:25:00
+88,188,1,Great product!,2026-05-01 11:26:00
+263,107,2,Average experience,2026-05-01 11:27:00
+35,100,2,Will not buy again,2026-05-01 11:28:00
+95,103,5,Not satisfied,2026-05-01 11:29:00
+356,172,4,Average experience,2026-05-01 11:30:00
+468,147,2,Poor packaging,2026-05-01 11:31:00
+473,105,1,Highly recommend,2026-05-01 11:32:00
+498,184,5,Very bad quality,2026-05-01 11:33:00
+44,131,4,Very bad quality,2026-05-01 11:34:00
+121,129,2,Not satisfied,2026-05-01 11:35:00
+270,181,4,Not satisfied,2026-05-01 11:36:00
+192,193,5,Worth the price,2026-05-01 11:37:00
+107,145,5,Great product!,2026-05-01 11:38:00
+199,148,4,Very bad quality,2026-05-01 11:39:00
+129,110,1,Average experience,2026-05-01 11:40:00
+485,152,1,Highly recommend,2026-05-01 11:41:00
+391,158,5,Not satisfied,2026-05-01 11:42:00
+79,187,4,Not satisfied,2026-05-01 11:43:00
+96,113,3,Highly recommend,2026-05-01 11:44:00
+484,157,5,Great product!,2026-05-01 11:45:00
+400,153,1,Worth the price,2026-05-01 11:46:00
+379,185,4,Very bad quality,2026-05-01 11:47:00
+481,194,1,Good value,2026-05-01 11:48:00
+157,157,3,Good value,2026-05-01 11:49:00
+478,191,5,Excellent!,2026-05-01 11:50:00
+437,143,5,Worth the price,2026-05-01 11:51:00
+360,159,3,Good value,2026-05-01 11:52:00
+5,165,1,Great product!,2026-05-01 11:53:00
+270,187,3,Will not buy again,2026-05-01 11:54:00
+410,186,3,Not satisfied,2026-05-01 11:55:00
+335,177,1,Average experience,2026-05-01 11:56:00
+408,185,1,Poor packaging,2026-05-01 11:57:00
+21,112,3,Excellent!,2026-05-01 11:58:00
+99,116,2,Poor packaging,2026-05-01 11:59:00
+226,194,5,Not satisfied,2026-05-01 12:00:00
+285,105,3,Great product!,2026-05-01 12:01:00
+16,118,2,Highly recommend,2026-05-01 12:02:00
+251,150,3,Highly recommend,2026-05-01 12:03:00
+205,169,2,Average experience,2026-05-01 12:04:00
+385,111,3,Average experience,2026-05-01 12:05:00
+421,141,1,Will not buy again,2026-05-01 12:06:00
+385,103,4,Excellent!,2026-05-01 12:07:00
+269,113,4,Excellent!,2026-05-01 12:08:00
+78,151,2,Great product!,2026-05-01 12:09:00
+74,116,4,Not satisfied,2026-05-01 12:10:00
+121,191,3,Highly recommend,2026-05-01 12:11:00
+337,172,5,Great product!,2026-05-01 12:12:00
+317,105,5,Worth the price,2026-05-01 12:13:00
+477,104,4,Good value,2026-05-01 12:14:00
+264,154,1,Will not buy again,2026-05-01 12:15:00
+431,193,1,Great product!,2026-05-01 12:16:00
+474,198,3,Poor packaging,2026-05-01 12:17:00
+293,120,5,Worth the price,2026-05-01 12:18:00
+325,101,4,Worth the price,2026-05-01 12:19:00
+227,199,1,Poor packaging,2026-05-01 12:20:00
+453,117,1,Highly recommend,2026-05-01 12:21:00
+179,107,3,Great product!,2026-05-01 12:22:00
+259,190,1,Worth the price,2026-05-01 12:23:00
+60,133,1,Great product!,2026-05-01 12:24:00
+18,113,2,Average experience,2026-05-01 12:25:00
+235,125,3,Average experience,2026-05-01 12:26:00
+455,113,5,Very bad quality,2026-05-01 12:27:00
+21,132,4,Worth the price,2026-05-01 12:28:00
+121,138,1,Average experience,2026-05-01 12:29:00
+304,116,4,Poor packaging,2026-05-01 12:30:00
+203,103,5,Great product!,2026-05-01 12:31:00
+130,141,3,Not satisfied,2026-05-01 12:32:00
+107,167,4,Great product!,2026-05-01 12:33:00
+105,163,1,Excellent!,2026-05-01 12:34:00
+1,157,1,Great product!,2026-05-01 12:35:00
+376,103,4,Highly recommend,2026-05-01 12:36:00
+417,117,5,Great product!,2026-05-01 12:37:00
+316,107,3,Worth the price,2026-05-01 12:38:00
+339,146,4,Average experience,2026-05-01 12:39:00
+200,197,3,Poor packaging,2026-05-01 12:40:00
+492,188,4,Not satisfied,2026-05-01 12:41:00
+355,185,2,Poor packaging,2026-05-01 12:42:00
+4,103,2,Very bad quality,2026-05-01 12:43:00
+407,182,2,Very bad quality,2026-05-01 12:44:00
+313,160,3,Excellent!,2026-05-01 12:45:00
+106,154,4,Highly recommend,2026-05-01 12:46:00
+402,166,5,Will not buy again,2026-05-01 12:47:00
+73,176,2,Poor packaging,2026-05-01 12:48:00
+481,111,1,Will not buy again,2026-05-01 12:49:00
+366,138,1,Good value,2026-05-01 12:50:00
+463,154,2,Not satisfied,2026-05-01 12:51:00
+379,153,2,Highly recommend,2026-05-01 12:52:00
+372,127,4,Will not buy again,2026-05-01 12:53:00
+363,196,2,Very bad quality,2026-05-01 12:54:00
+71,123,1,Very bad quality,2026-05-01 12:55:00
+347,147,3,Highly recommend,2026-05-01 12:56:00
+415,153,1,Very bad quality,2026-05-01 12:57:00
+322,148,3,Good value,2026-05-01 12:58:00
+33,142,1,Great product!,2026-05-01 12:59:00
+185,178,3,Good value,2026-05-01 13:00:00
+250,102,3,Excellent!,2026-05-01 13:01:00
+364,110,4,Very bad quality,2026-05-01 13:02:00
+205,160,2,Not satisfied,2026-05-01 13:03:00
+164,161,1,Worth the price,2026-05-01 13:04:00
+214,128,1,Worth the price,2026-05-01 13:05:00
+162,129,4,Highly recommend,2026-05-01 13:06:00
+436,155,1,Good value,2026-05-01 13:07:00
+255,186,5,Average experience,2026-05-01 13:08:00
+139,154,5,Not satisfied,2026-05-01 13:09:00
+378,122,5,Poor packaging,2026-05-01 13:10:00
+326,197,5,Highly recommend,2026-05-01 13:11:00
+423,107,2,Average experience,2026-05-01 13:12:00
+408,144,3,Poor packaging,2026-05-01 13:13:00
+210,148,4,Excellent!,2026-05-01 13:14:00
+29,137,3,Good value,2026-05-01 13:15:00
+204,129,4,Highly recommend,2026-05-01 13:16:00
+41,176,2,Not satisfied,2026-05-01 13:17:00
+61,113,3,Good value,2026-05-01 13:18:00
+160,186,4,Worth the price,2026-05-01 13:19:00
+254,162,4,Very bad quality,2026-05-01 13:20:00
+469,138,2,Will not buy again,2026-05-01 13:21:00
+161,193,2,Good value,2026-05-01 13:22:00
+334,118,5,Not satisfied,2026-05-01 13:23:00
+62,197,2,Worth the price,2026-05-01 13:24:00
+122,157,2,Good value,2026-05-01 13:25:00
+268,110,3,Average experience,2026-05-01 13:26:00
+178,147,5,Very bad quality,2026-05-01 13:27:00
+344,193,4,Great product!,2026-05-01 13:28:00
+191,113,4,Very bad quality,2026-05-01 13:29:00
+495,165,5,Average experience,2026-05-01 13:30:00
+486,174,4,Poor packaging,2026-05-01 13:31:00
+233,184,3,Worth the price,2026-05-01 13:32:00
+13,112,2,Very bad quality,2026-05-01 13:33:00
+99,113,4,Worth the price,2026-05-01 13:34:00
+209,164,1,Not satisfied,2026-05-01 13:35:00
+405,167,1,Poor packaging,2026-05-01 13:36:00
+128,176,4,Not satisfied,2026-05-01 13:37:00
+446,103,4,Great product!,2026-05-01 13:38:00
+478,118,2,Excellent!,2026-05-01 13:39:00
+17,116,1,Not satisfied,2026-05-01 13:40:00
+227,157,5,Highly recommend,2026-05-01 13:41:00
+458,173,1,Average experience,2026-05-01 13:42:00
+35,181,3,Poor packaging,2026-05-01 13:43:00
+454,189,2,Excellent!,2026-05-01 13:44:00
+466,133,1,Good value,2026-05-01 13:45:00
+287,190,3,Very bad quality,2026-05-01 13:46:00
+159,180,1,Very bad quality,2026-05-01 13:47:00
+103,193,3,Not satisfied,2026-05-01 13:48:00
+278,127,5,Great product!,2026-05-01 13:49:00
+9,130,3,Worth the price,2026-05-01 13:50:00
+32,191,2,Good value,2026-05-01 13:51:00
+111,162,2,Will not buy again,2026-05-01 13:52:00
+353,150,1,Will not buy again,2026-05-01 13:53:00
+457,189,4,Poor packaging,2026-05-01 13:54:00
+63,158,1,Highly recommend,2026-05-01 13:55:00
+481,152,4,Poor packaging,2026-05-01 13:56:00
+304,109,4,Very bad quality,2026-05-01 13:57:00
+369,126,3,Will not buy again,2026-05-01 13:58:00
+244,198,1,Highly recommend,2026-05-01 13:59:00
+108,112,5,Very bad quality,2026-05-01 14:00:00
+218,119,2,Excellent!,2026-05-01 14:01:00
+301,148,2,Not satisfied,2026-05-01 14:02:00
+59,131,3,Excellent!,2026-05-01 14:03:00
+307,137,1,Worth the price,2026-05-01 14:04:00
+67,114,1,Will not buy again,2026-05-01 14:05:00
+498,182,1,Poor packaging,2026-05-01 14:06:00
+437,170,1,Worth the price,2026-05-01 14:07:00
+12,161,1,Poor packaging,2026-05-01 14:08:00
+335,172,5,Very bad quality,2026-05-01 14:09:00
+251,103,2,Average experience,2026-05-01 14:10:00
+4,151,1,Will not buy again,2026-05-01 14:11:00
+132,171,5,Worth the price,2026-05-01 14:12:00
+272,146,1,Very bad quality,2026-05-01 14:13:00
+43,110,2,Very bad quality,2026-05-01 14:14:00
+346,145,2,Poor packaging,2026-05-01 14:15:00
+195,104,4,Excellent!,2026-05-01 14:16:00
+479,193,2,Great product!,2026-05-01 14:17:00
+199,160,4,Good value,2026-05-01 14:18:00
+447,189,5,Poor packaging,2026-05-01 14:19:00
+114,142,2,Great product!,2026-05-01 14:20:00
+26,163,3,Poor packaging,2026-05-01 14:21:00
+265,164,4,Poor packaging,2026-05-01 14:22:00
+399,137,1,Very bad quality,2026-05-01 14:23:00
+152,152,3,Will not buy again,2026-05-01 14:24:00
+122,139,5,Not satisfied,2026-05-01 14:25:00
+203,113,5,Good value,2026-05-01 14:26:00
+92,132,5,Will not buy again,2026-05-01 14:27:00
+128,158,3,Very bad quality,2026-05-01 14:28:00
+408,109,5,Worth the price,2026-05-01 14:29:00
+219,149,3,Worth the price,2026-05-01 14:30:00
+221,177,4,Good value,2026-05-01 14:31:00
+281,165,5,Good value,2026-05-01 14:32:00
+23,197,2,Worth the price,2026-05-01 14:33:00
+67,156,5,Highly recommend,2026-05-01 14:34:00
+488,129,4,Worth the price,2026-05-01 14:35:00
+179,135,3,Highly recommend,2026-05-01 14:36:00
+131,152,4,Not satisfied,2026-05-01 14:37:00
+47,195,2,Great product!,2026-05-01 14:38:00
+87,192,4,Will not buy again,2026-05-01 14:39:00
+244,148,4,Will not buy again,2026-05-01 14:40:00
+463,112,2,Good value,2026-05-01 14:41:00
+132,125,3,Highly recommend,2026-05-01 14:42:00
+383,153,4,Excellent!,2026-05-01 14:43:00
+7,105,3,Will not buy again,2026-05-01 14:44:00
+388,112,1,Average experience,2026-05-01 14:45:00
+435,174,3,Not satisfied,2026-05-01 14:46:00
+157,165,4,Average experience,2026-05-01 14:47:00
+236,175,5,Very bad quality,2026-05-01 14:48:00
+484,189,5,Great product!,2026-05-01 14:49:00
+459,138,5,Average experience,2026-05-01 14:50:00
+29,177,2,Poor packaging,2026-05-01 14:51:00
+197,139,5,Highly recommend,2026-05-01 14:52:00
+131,108,5,Will not buy again,2026-05-01 14:53:00
+442,135,5,Not satisfied,2026-05-01 14:54:00
+429,134,1,Not satisfied,2026-05-01 14:55:00
+104,122,1,Highly recommend,2026-05-01 14:56:00
+474,128,4,Very bad quality,2026-05-01 14:57:00
+73,128,1,Very bad quality,2026-05-01 14:58:00
+30,140,2,Will not buy again,2026-05-01 14:59:00
+189,165,3,Poor packaging,2026-05-01 15:00:00
+78,120,3,Average experience,2026-05-01 15:01:00
+49,152,3,Very bad quality,2026-05-01 15:02:00
+295,136,5,Will not buy again,2026-05-01 15:03:00
+363,168,3,Highly recommend,2026-05-01 15:04:00
+398,137,1,Poor packaging,2026-05-01 15:05:00
+26,171,4,Average experience,2026-05-01 15:06:00
+355,105,4,Great product!,2026-05-01 15:07:00
+68,130,4,Average experience,2026-05-01 15:08:00
+130,168,2,Excellent!,2026-05-01 15:09:00
+401,188,2,Average experience,2026-05-01 15:10:00
+149,137,1,Excellent!,2026-05-01 15:11:00
+46,165,5,Excellent!,2026-05-01 15:12:00
+50,111,2,Poor packaging,2026-05-01 15:13:00
+472,132,2,Very bad quality,2026-05-01 15:14:00
+412,131,1,Not satisfied,2026-05-01 15:15:00
+349,125,5,Great product!,2026-05-01 15:16:00
+471,140,1,Poor packaging,2026-05-01 15:17:00
+482,190,1,Worth the price,2026-05-01 15:18:00
+204,146,4,Will not buy again,2026-05-01 15:19:00
+373,152,5,Highly recommend,2026-05-01 15:20:00
+220,105,1,Highly recommend,2026-05-01 15:21:00
+499,158,2,Good value,2026-05-01 15:22:00
+287,172,3,Highly recommend,2026-05-01 15:23:00
+405,137,4,Good value,2026-05-01 15:24:00
+304,154,5,Not satisfied,2026-05-01 15:25:00
+417,151,2,Poor packaging,2026-05-01 15:26:00
+171,148,3,Excellent!,2026-05-01 15:27:00
+286,109,3,Worth the price,2026-05-01 15:28:00
+168,107,1,Will not buy again,2026-05-01 15:29:00
+437,120,5,Worth the price,2026-05-01 15:30:00
+231,188,5,Highly recommend,2026-05-01 15:31:00
+499,103,1,Highly recommend,2026-05-01 15:32:00
+283,146,1,Great product!,2026-05-01 15:33:00
+434,166,3,Not satisfied,2026-05-01 15:34:00
+469,108,4,Not satisfied,2026-05-01 15:35:00
+203,186,1,Good value,2026-05-01 15:36:00
+61,138,3,Not satisfied,2026-05-01 15:37:00
+37,148,3,Will not buy again,2026-05-01 15:38:00
+382,111,5,Worth the price,2026-05-01 15:39:00
+496,173,4,Very bad quality,2026-05-01 15:40:00
+377,111,4,Worth the price,2026-05-01 15:41:00
+175,181,5,Excellent!,2026-05-01 15:42:00
+426,120,2,Poor packaging,2026-05-01 15:43:00
+224,164,4,Poor packaging,2026-05-01 15:44:00
+36,100,5,Poor packaging,2026-05-01 15:45:00
+307,184,5,Not satisfied,2026-05-01 15:46:00
+424,114,4,Average experience,2026-05-01 15:47:00
+369,198,3,Will not buy again,2026-05-01 15:48:00
+422,103,3,Average experience,2026-05-01 15:49:00
+379,146,4,Poor packaging,2026-05-01 15:50:00
+431,155,5,Worth the price,2026-05-01 15:51:00
+126,159,2,Good value,2026-05-01 15:52:00
+442,161,5,Poor packaging,2026-05-01 15:53:00
+137,198,2,Average experience,2026-05-01 15:54:00
+76,159,1,Not satisfied,2026-05-01 15:55:00
+247,132,3,Average experience,2026-05-01 15:56:00
+394,187,5,Poor packaging,2026-05-01 15:57:00
+106,184,1,Great product!,2026-05-01 15:58:00
+258,143,4,Highly recommend,2026-05-01 15:59:00
+432,130,1,Not satisfied,2026-05-01 16:00:00
+293,132,2,Highly recommend,2026-05-01 16:01:00
+384,123,1,Worth the price,2026-05-01 16:02:00
+481,195,2,Great product!,2026-05-01 16:03:00
+62,134,2,Not satisfied,2026-05-01 16:04:00
+39,168,5,Will not buy again,2026-05-01 16:05:00
+226,191,1,Highly recommend,2026-05-01 16:06:00
+397,174,1,Poor packaging,2026-05-01 16:07:00
+224,154,1,Poor packaging,2026-05-01 16:08:00
+195,123,5,Not satisfied,2026-05-01 16:09:00
+491,131,3,Will not buy again,2026-05-01 16:10:00
+285,114,1,Highly recommend,2026-05-01 16:11:00
+64,113,1,Highly recommend,2026-05-01 16:12:00
+252,181,5,Not satisfied,2026-05-01 16:13:00
+188,132,1,Excellent!,2026-05-01 16:14:00
+427,155,2,Will not buy again,2026-05-01 16:15:00
+262,177,3,Very bad quality,2026-05-01 16:16:00
+264,171,1,Very bad quality,2026-05-01 16:17:00
+213,148,2,Will not buy again,2026-05-01 16:18:00
+76,127,2,Poor packaging,2026-05-01 16:19:00
+89,107,1,Not satisfied,2026-05-01 16:20:00
+387,173,4,Great product!,2026-05-01 16:21:00
+58,193,5,Worth the price,2026-05-01 16:22:00
+368,168,4,Not satisfied,2026-05-01 16:23:00
+154,139,3,Excellent!,2026-05-01 16:24:00
+402,148,3,Average experience,2026-05-01 16:25:00
+358,169,3,Very bad quality,2026-05-01 16:26:00
+266,100,1,Will not buy again,2026-05-01 16:27:00
+165,136,1,Great product!,2026-05-01 16:28:00
+432,173,4,Good value,2026-05-01 16:29:00
+302,191,5,Very bad quality,2026-05-01 16:30:00
+335,184,1,Very bad quality,2026-05-01 16:31:00
+456,180,4,Great product!,2026-05-01 16:32:00
+441,112,2,Not satisfied,2026-05-01 16:33:00
+414,110,3,Poor packaging,2026-05-01 16:34:00
+93,154,1,Worth the price,2026-05-01 16:35:00
+277,148,2,Good value,2026-05-01 16:36:00
+348,172,1,Highly recommend,2026-05-01 16:37:00
+100,121,5,Very bad quality,2026-05-01 16:38:00
+332,139,2,Average experience,2026-05-01 16:39:00
+218,101,3,Highly recommend,2026-05-01 16:40:00
+414,137,5,Worth the price,2026-05-01 16:41:00
+291,175,3,Very bad quality,2026-05-01 16:42:00
+430,137,5,Will not buy again,2026-05-01 16:43:00
+410,150,4,Good value,2026-05-01 16:44:00
+415,157,3,Will not buy again,2026-05-01 16:45:00
+96,124,5,Average experience,2026-05-01 16:46:00
+71,105,5,Poor packaging,2026-05-01 16:47:00
+422,159,5,Very bad quality,2026-05-01 16:48:00
+13,177,5,Great product!,2026-05-01 16:49:00
+301,180,5,Excellent!,2026-05-01 16:50:00
+350,153,1,Not satisfied,2026-05-01 16:51:00
+258,144,5,Good value,2026-05-01 16:52:00
+9,144,3,Average experience,2026-05-01 16:53:00
+496,119,3,Average experience,2026-05-01 16:54:00
+467,139,3,Poor packaging,2026-05-01 16:55:00
+85,192,4,Not satisfied,2026-05-01 16:56:00
+185,166,1,Average experience,2026-05-01 16:57:00
+274,107,2,Poor packaging,2026-05-01 16:58:00
+178,140,4,Poor packaging,2026-05-01 16:59:00
+296,151,4,Will not buy again,2026-05-01 17:00:00
+424,190,4,Worth the price,2026-05-01 17:01:00
+144,122,4,Good value,2026-05-01 17:02:00
+279,198,5,Great product!,2026-05-01 17:03:00
+39,179,5,Worth the price,2026-05-01 17:04:00
+309,161,2,Worth the price,2026-05-01 17:05:00
+205,136,4,Very bad quality,2026-05-01 17:06:00
+480,151,4,Great product!,2026-05-01 17:07:00
+457,181,2,Highly recommend,2026-05-01 17:08:00
+38,140,3,Worth the price,2026-05-01 17:09:00
+153,185,3,Poor packaging,2026-05-01 17:10:00
+488,161,2,Average experience,2026-05-01 17:11:00
+176,159,3,Average experience,2026-05-01 17:12:00
+456,102,3,Excellent!,2026-05-01 17:13:00
+200,171,3,Not satisfied,2026-05-01 17:14:00
+466,106,4,Very bad quality,2026-05-01 17:15:00
+43,172,1,Will not buy again,2026-05-01 17:16:00
+272,107,2,Will not buy again,2026-05-01 17:17:00
+205,185,2,Worth the price,2026-05-01 17:18:00
+199,189,1,Average experience,2026-05-01 17:19:00
+321,129,5,Highly recommend,2026-05-01 17:20:00
+178,142,5,Worth the price,2026-05-01 17:21:00
+371,124,2,Great product!,2026-05-01 17:22:00
+352,124,2,Highly recommend,2026-05-01 17:23:00
+38,147,1,Very bad quality,2026-05-01 17:24:00
+253,118,3,Worth the price,2026-05-01 17:25:00
+364,183,3,Not satisfied,2026-05-01 17:26:00
+194,179,1,Average experience,2026-05-01 17:27:00
+468,166,4,Poor packaging,2026-05-01 17:28:00
+4,109,1,Highly recommend,2026-05-01 17:29:00
+156,165,2,Average experience,2026-05-01 17:30:00
+65,198,2,Will not buy again,2026-05-01 17:31:00
+205,117,3,Very bad quality,2026-05-01 17:32:00
+54,136,1,Will not buy again,2026-05-01 17:33:00
+106,104,2,Average experience,2026-05-01 17:34:00
+323,186,2,Average experience,2026-05-01 17:35:00
+224,161,4,Will not buy again,2026-05-01 17:36:00
+270,135,2,Great product!,2026-05-01 17:37:00
+276,113,4,Great product!,2026-05-01 17:38:00
+234,122,4,Not satisfied,2026-05-01 17:39:00
+442,126,3,Excellent!,2026-05-01 17:40:00
+307,140,2,Highly recommend,2026-05-01 17:41:00
+384,160,2,Good value,2026-05-01 17:42:00
+66,155,4,Good value,2026-05-01 17:43:00
+111,109,1,Very bad quality,2026-05-01 17:44:00
+401,100,4,Good value,2026-05-01 17:45:00
+225,187,3,Poor packaging,2026-05-01 17:46:00
+44,192,5,Poor packaging,2026-05-01 17:47:00
+419,132,3,Not satisfied,2026-05-01 17:48:00
+369,136,3,Excellent!,2026-05-01 17:49:00
+9,136,1,Highly recommend,2026-05-01 17:50:00
+134,136,2,Highly recommend,2026-05-01 17:51:00
+296,137,2,Average experience,2026-05-01 17:52:00
+266,139,1,Worth the price,2026-05-01 17:53:00
+426,151,1,Excellent!,2026-05-01 17:54:00
+24,112,2,Highly recommend,2026-05-01 17:55:00
+420,179,3,Will not buy again,2026-05-01 17:56:00
+231,169,2,Worth the price,2026-05-01 17:57:00
+330,124,4,Great product!,2026-05-01 17:58:00
+24,194,3,Very bad quality,2026-05-01 17:59:00
+315,144,3,Not satisfied,2026-05-01 18:00:00
+412,135,5,Good value,2026-05-01 18:01:00
+469,104,5,Not satisfied,2026-05-01 18:02:00
+354,161,2,Poor packaging,2026-05-01 18:03:00
+94,107,4,Excellent!,2026-05-01 18:04:00
+424,144,5,Very bad quality,2026-05-01 18:05:00
+149,112,5,Excellent!,2026-05-01 18:06:00
+348,118,4,Not satisfied,2026-05-01 18:07:00
+148,144,1,Good value,2026-05-01 18:08:00
+212,134,3,Good value,2026-05-01 18:09:00
+424,147,4,Highly recommend,2026-05-01 18:10:00
+54,184,2,Worth the price,2026-05-01 18:11:00
+358,137,5,Not satisfied,2026-05-01 18:12:00
+173,167,1,Great product!,2026-05-01 18:13:00
+479,166,3,Not satisfied,2026-05-01 18:14:00
+61,146,5,Not satisfied,2026-05-01 18:15:00
+125,154,3,Average experience,2026-05-01 18:16:00
+82,174,5,Worth the price,2026-05-01 18:17:00
+394,154,1,Will not buy again,2026-05-01 18:18:00
+330,114,5,Great product!,2026-05-01 18:19:00
+20,187,5,Great product!,2026-05-01 18:20:00
+371,161,3,Very bad quality,2026-05-01 18:21:00
+437,130,4,Very bad quality,2026-05-01 18:22:00
+150,165,3,Great product!,2026-05-01 18:23:00
+481,147,2,Very bad quality,2026-05-01 18:24:00
+396,196,5,Very bad quality,2026-05-01 18:25:00
+491,118,3,Worth the price,2026-05-01 18:26:00
+100,108,1,Very bad quality,2026-05-01 18:27:00
+263,154,3,Good value,2026-05-01 18:28:00
+27,157,2,Average experience,2026-05-01 18:29:00
+275,181,2,Great product!,2026-05-01 18:30:00
+432,132,2,Very bad quality,2026-05-01 18:31:00
+220,157,3,Very bad quality,2026-05-01 18:32:00
+67,111,2,Worth the price,2026-05-01 18:33:00
+172,152,4,Poor packaging,2026-05-01 18:34:00
+29,111,4,Will not buy again,2026-05-01 18:35:00
+67,199,5,Will not buy again,2026-05-01 18:36:00
+7,132,1,Excellent!,2026-05-01 18:37:00
+1,165,2,Worth the price,2026-05-01 18:38:00
+492,157,5,Great product!,2026-05-01 18:39:00
+309,133,1,Not satisfied,2026-05-01 18:40:00
+128,174,3,Very bad quality,2026-05-01 18:41:00
+492,152,1,Will not buy again,2026-05-01 18:42:00
+86,106,3,Good value,2026-05-01 18:43:00
+11,123,2,Will not buy again,2026-05-01 18:44:00
+426,151,1,Highly recommend,2026-05-01 18:45:00
+97,126,3,Will not buy again,2026-05-01 18:46:00
+478,184,4,Very bad quality,2026-05-01 18:47:00
+326,120,4,Highly recommend,2026-05-01 18:48:00
+19,152,4,Poor packaging,2026-05-01 18:49:00
+393,134,1,Average experience,2026-05-01 18:50:00
+102,178,3,Great product!,2026-05-01 18:51:00
+381,133,1,Worth the price,2026-05-01 18:52:00
+474,102,3,Good value,2026-05-01 18:53:00
+478,146,2,Highly recommend,2026-05-01 18:54:00
+232,126,1,Average experience,2026-05-01 18:55:00
+26,176,2,Poor packaging,2026-05-01 18:56:00
+188,164,2,Will not buy again,2026-05-01 18:57:00
+449,147,1,Highly recommend,2026-05-01 18:58:00
+31,104,1,Poor packaging,2026-05-01 18:59:00
+253,108,4,Highly recommend,2026-05-01 19:00:00
+108,192,2,Highly recommend,2026-05-01 19:01:00
+442,172,3,Great product!,2026-05-01 19:02:00
+133,144,2,Good value,2026-05-01 19:03:00
+175,170,5,Will not buy again,2026-05-01 19:04:00
+459,141,3,Not satisfied,2026-05-01 19:05:00
+429,161,5,Will not buy again,2026-05-01 19:06:00
+324,133,1,Highly recommend,2026-05-01 19:07:00
+32,117,5,Poor packaging,2026-05-01 19:08:00
+141,144,5,Not satisfied,2026-05-01 19:09:00
+184,165,2,Will not buy again,2026-05-01 19:10:00
+67,130,1,Poor packaging,2026-05-01 19:11:00
+7,134,3,Very bad quality,2026-05-01 19:12:00
+103,131,4,Will not buy again,2026-05-01 19:13:00
+432,149,4,Will not buy again,2026-05-01 19:14:00
+69,163,3,Very bad quality,2026-05-01 19:15:00
+307,152,1,Highly recommend,2026-05-01 19:16:00
+447,146,4,Highly recommend,2026-05-01 19:17:00
+42,166,5,Poor packaging,2026-05-01 19:18:00
+481,192,2,Worth the price,2026-05-01 19:19:00
+300,189,4,Poor packaging,2026-05-01 19:20:00
+42,130,1,Not satisfied,2026-05-01 19:21:00
+357,137,5,Worth the price,2026-05-01 19:22:00
+490,194,4,Good value,2026-05-01 19:23:00
+366,174,5,Excellent!,2026-05-01 19:24:00
+64,104,4,Will not buy again,2026-05-01 19:25:00
+123,177,5,Great product!,2026-05-01 19:26:00
+62,121,3,Very bad quality,2026-05-01 19:27:00
+56,112,4,Poor packaging,2026-05-01 19:28:00
+322,184,5,Average experience,2026-05-01 19:29:00
+169,134,5,Average experience,2026-05-01 19:30:00
+451,103,5,Poor packaging,2026-05-01 19:31:00
+256,194,5,Will not buy again,2026-05-01 19:32:00
+50,129,5,Very bad quality,2026-05-01 19:33:00
+362,136,1,Average experience,2026-05-01 19:34:00
+7,147,3,Highly recommend,2026-05-01 19:35:00
+283,148,5,Not satisfied,2026-05-01 19:36:00
+425,141,1,Great product!,2026-05-01 19:37:00
+55,129,3,Excellent!,2026-05-01 19:38:00
+289,167,3,Poor packaging,2026-05-01 19:39:00
+205,175,1,Good value,2026-05-01 19:40:00
+70,159,3,Not satisfied,2026-05-01 19:41:00
+67,140,2,Will not buy again,2026-05-01 19:42:00
+385,100,5,Highly recommend,2026-05-01 19:43:00
+481,157,2,Will not buy again,2026-05-01 19:44:00
+250,141,3,Good value,2026-05-01 19:45:00
+160,103,1,Highly recommend,2026-05-01 19:46:00
+295,168,3,Good value,2026-05-01 19:47:00
+90,198,4,Not satisfied,2026-05-01 19:48:00
+356,168,4,Highly recommend,2026-05-01 19:49:00
+2,156,3,Very bad quality,2026-05-01 19:50:00
+71,156,1,Will not buy again,2026-05-01 19:51:00
+133,124,2,Excellent!,2026-05-01 19:52:00
+150,116,1,Excellent!,2026-05-01 19:53:00
+37,108,4,Good value,2026-05-01 19:54:00
+457,135,4,Not satisfied,2026-05-01 19:55:00
+127,158,5,Will not buy again,2026-05-01 19:56:00
+442,188,2,Will not buy again,2026-05-01 19:57:00
+354,105,1,Good value,2026-05-01 19:58:00
+229,178,5,Highly recommend,2026-05-01 19:59:00
+480,174,1,Worth the price,2026-05-01 20:00:00
+123,164,4,Good value,2026-05-01 20:01:00
+348,140,2,Average experience,2026-05-01 20:02:00
+61,138,4,Worth the price,2026-05-01 20:03:00
+80,108,4,Poor packaging,2026-05-01 20:04:00
+320,165,2,Very bad quality,2026-05-01 20:05:00
+232,126,1,Excellent!,2026-05-01 20:06:00
+324,173,3,Excellent!,2026-05-01 20:07:00
+428,116,4,Very bad quality,2026-05-01 20:08:00
+64,115,3,Worth the price,2026-05-01 20:09:00
+211,198,4,Poor packaging,2026-05-01 20:10:00
+489,115,3,Great product!,2026-05-01 20:11:00
+343,106,2,Not satisfied,2026-05-01 20:12:00
+291,179,1,Very bad quality,2026-05-01 20:13:00
+93,190,4,Not satisfied,2026-05-01 20:14:00
+147,193,4,Will not buy again,2026-05-01 20:15:00
+236,159,5,Very bad quality,2026-05-01 20:16:00
+89,140,4,Highly recommend,2026-05-01 20:17:00
+297,144,2,Great product!,2026-05-01 20:18:00
+296,152,3,Poor packaging,2026-05-01 20:19:00
+18,178,4,Will not buy again,2026-05-01 20:20:00
+297,159,2,Good value,2026-05-01 20:21:00
+190,185,1,Excellent!,2026-05-01 20:22:00
+106,158,5,Average experience,2026-05-01 20:23:00
+328,152,5,Will not buy again,2026-05-01 20:24:00
+22,166,1,Highly recommend,2026-05-01 20:25:00
+479,121,3,Great product!,2026-05-01 20:26:00
+159,128,5,Worth the price,2026-05-01 20:27:00
+330,158,2,Average experience,2026-05-01 20:28:00
+14,167,5,Highly recommend,2026-05-01 20:29:00
+418,138,4,Highly recommend,2026-05-01 20:30:00
+60,107,3,Average experience,2026-05-01 20:31:00
+312,187,1,Will not buy again,2026-05-01 20:32:00
+197,105,2,Poor packaging,2026-05-01 20:33:00
+418,110,2,Worth the price,2026-05-01 20:34:00
+282,191,3,Average experience,2026-05-01 20:35:00
+156,167,3,Not satisfied,2026-05-01 20:36:00
+271,157,1,Good value,2026-05-01 20:37:00
+286,197,1,Good value,2026-05-01 20:38:00
+69,175,2,Poor packaging,2026-05-01 20:39:00
+76,114,4,Poor packaging,2026-05-01 20:40:00
+177,134,1,Average experience,2026-05-01 20:41:00
+452,193,4,Very bad quality,2026-05-01 20:42:00
+293,165,4,Excellent!,2026-05-01 20:43:00
+105,124,4,Very bad quality,2026-05-01 20:44:00
+91,179,2,Highly recommend,2026-05-01 20:45:00
+71,111,4,Average experience,2026-05-01 20:46:00
+304,138,3,Great product!,2026-05-01 20:47:00
+208,184,3,Good value,2026-05-01 20:48:00
+66,182,2,Good value,2026-05-01 20:49:00
+456,143,1,Very bad quality,2026-05-01 20:50:00
+421,120,5,Highly recommend,2026-05-01 20:51:00
+79,151,4,Will not buy again,2026-05-01 20:52:00
+11,194,3,Excellent!,2026-05-01 20:53:00
+242,137,4,Good value,2026-05-01 20:54:00
+149,125,1,Poor packaging,2026-05-01 20:55:00
+134,196,4,Will not buy again,2026-05-01 20:56:00
+125,160,3,Good value,2026-05-01 20:57:00
+135,158,4,Average experience,2026-05-01 20:58:00
+140,135,1,Excellent!,2026-05-01 20:59:00
+52,109,3,Worth the price,2026-05-01 21:00:00
+49,131,3,Not satisfied,2026-05-01 21:01:00
+199,165,2,Highly recommend,2026-05-01 21:02:00
+100,147,2,Very bad quality,2026-05-01 21:03:00
+72,188,2,Excellent!,2026-05-01 21:04:00
+265,139,1,Excellent!,2026-05-01 21:05:00
+247,104,4,Excellent!,2026-05-01 21:06:00
+386,195,1,Average experience,2026-05-01 21:07:00
+281,179,4,Worth the price,2026-05-01 21:08:00
+319,106,4,Worth the price,2026-05-01 21:09:00
+108,124,2,Excellent!,2026-05-01 21:10:00
+434,199,5,Poor packaging,2026-05-01 21:11:00
+140,170,1,Highly recommend,2026-05-01 21:12:00
+113,183,4,Good value,2026-05-01 21:13:00
+83,160,1,Average experience,2026-05-01 21:14:00
+79,126,3,Not satisfied,2026-05-01 21:15:00
+305,193,3,Excellent!,2026-05-01 21:16:00
+5,132,2,Great product!,2026-05-01 21:17:00
+407,100,5,Very bad quality,2026-05-01 21:18:00
+353,185,5,Excellent!,2026-05-01 21:19:00
+1,156,2,Highly recommend,2026-05-01 21:20:00
+334,184,5,Will not buy again,2026-05-01 21:21:00
+315,131,3,Not satisfied,2026-05-01 21:22:00
+210,170,3,Excellent!,2026-05-01 21:23:00
+62,179,4,Great product!,2026-05-01 21:24:00
+241,148,3,Excellent!,2026-05-01 21:25:00
+492,192,4,Worth the price,2026-05-01 21:26:00
+458,177,1,Highly recommend,2026-05-01 21:27:00
+87,174,3,Poor packaging,2026-05-01 21:28:00
+72,120,4,Not satisfied,2026-05-01 21:29:00
+354,195,3,Poor packaging,2026-05-01 21:30:00
+196,102,3,Average experience,2026-05-01 21:31:00
+81,185,2,Not satisfied,2026-05-01 21:32:00
+223,108,5,Poor packaging,2026-05-01 21:33:00
+285,155,1,Great product!,2026-05-01 21:34:00
+32,128,5,Great product!,2026-05-01 21:35:00
+209,182,2,Not satisfied,2026-05-01 21:36:00
+159,135,1,Average experience,2026-05-01 21:37:00
+54,197,5,Great product!,2026-05-01 21:38:00
+466,185,5,Will not buy again,2026-05-01 21:39:00
+188,132,4,Good value,2026-05-01 21:40:00
+361,128,2,Poor packaging,2026-05-01 21:41:00
+389,131,2,Poor packaging,2026-05-01 21:42:00
+399,184,2,Not satisfied,2026-05-01 21:43:00
+484,111,3,Will not buy again,2026-05-01 21:44:00
+327,155,2,Highly recommend,2026-05-01 21:45:00
+355,122,5,Good value,2026-05-01 21:46:00
+77,191,1,Not satisfied,2026-05-01 21:47:00
+192,199,3,Highly recommend,2026-05-01 21:48:00
+274,187,3,Worth the price,2026-05-01 21:49:00
+359,108,4,Will not buy again,2026-05-01 21:50:00
+417,145,5,Not satisfied,2026-05-01 21:51:00
+169,191,2,Excellent!,2026-05-01 21:52:00
+459,138,5,Average experience,2026-05-01 21:53:00
+69,108,2,Poor packaging,2026-05-01 21:54:00
+112,162,1,Will not buy again,2026-05-01 21:55:00
+71,184,1,Highly recommend,2026-05-01 21:56:00
+207,104,1,Not satisfied,2026-05-01 21:57:00
+276,131,3,Very bad quality,2026-05-01 21:58:00
+435,190,1,Highly recommend,2026-05-01 21:59:00
+344,106,3,Excellent!,2026-05-01 22:00:00
+348,131,3,Highly recommend,2026-05-01 22:01:00
+337,134,2,Will not buy again,2026-05-01 22:02:00
+416,107,4,Good value,2026-05-01 22:03:00
+339,132,4,Average experience,2026-05-01 22:04:00
+397,161,5,Very bad quality,2026-05-01 22:05:00
+420,151,4,Highly recommend,2026-05-01 22:06:00
+8,195,3,Good value,2026-05-01 22:07:00
+250,114,4,Great product!,2026-05-01 22:08:00
+404,120,3,Average experience,2026-05-01 22:09:00
+427,194,4,Excellent!,2026-05-01 22:10:00
+347,181,5,Poor packaging,2026-05-01 22:11:00
+279,155,4,Very bad quality,2026-05-01 22:12:00
+396,194,5,Great product!,2026-05-01 22:13:00
+20,136,3,Highly recommend,2026-05-01 22:14:00
+28,147,4,Great product!,2026-05-01 22:15:00
+31,136,1,Excellent!,2026-05-01 22:16:00
+373,140,2,Average experience,2026-05-01 22:17:00
+4,184,1,Poor packaging,2026-05-01 22:18:00
+286,113,5,Worth the price,2026-05-01 22:19:00
+40,159,3,Great product!,2026-05-01 22:20:00
+358,111,1,Not satisfied,2026-05-01 22:21:00
+361,191,5,Will not buy again,2026-05-01 22:22:00
+106,141,1,Good value,2026-05-01 22:23:00
+433,180,2,Average experience,2026-05-01 22:24:00
+36,171,2,Will not buy again,2026-05-01 22:25:00
+186,127,2,Worth the price,2026-05-01 22:26:00
+142,192,2,Poor packaging,2026-05-01 22:27:00
+86,182,4,Not satisfied,2026-05-01 22:28:00
+103,197,5,Poor packaging,2026-05-01 22:29:00
+270,129,2,Not satisfied,2026-05-01 22:30:00
+450,138,1,Will not buy again,2026-05-01 22:31:00
+352,152,2,Not satisfied,2026-05-01 22:32:00
+277,119,4,Highly recommend,2026-05-01 22:33:00
+340,177,2,Great product!,2026-05-01 22:34:00
+286,167,1,Great product!,2026-05-01 22:35:00
+106,184,4,Average experience,2026-05-01 22:36:00
+416,116,2,Not satisfied,2026-05-01 22:37:00
+303,181,4,Poor packaging,2026-05-01 22:38:00
+118,145,5,Will not buy again,2026-05-01 22:39:00
+55,183,2,Excellent!,2026-05-01 22:40:00
+9,123,1,Will not buy again,2026-05-01 22:41:00
+433,145,2,Highly recommend,2026-05-01 22:42:00
+249,124,2,Excellent!,2026-05-01 22:43:00
+492,187,1,Very bad quality,2026-05-01 22:44:00
+296,175,1,Average experience,2026-05-01 22:45:00
+152,133,3,Poor packaging,2026-05-01 22:46:00
+186,126,2,Very bad quality,2026-05-01 22:47:00
+449,104,3,Worth the price,2026-05-01 22:48:00
+150,146,3,Excellent!,2026-05-01 22:49:00
+462,187,4,Good value,2026-05-01 22:50:00
+294,182,1,Worth the price,2026-05-01 22:51:00
+379,192,3,Great product!,2026-05-01 22:52:00
+25,178,1,Worth the price,2026-05-01 22:53:00
+284,149,3,Highly recommend,2026-05-01 22:54:00
+420,144,2,Highly recommend,2026-05-01 22:55:00
+386,139,1,Average experience,2026-05-01 22:56:00
+452,187,4,Very bad quality,2026-05-01 22:57:00
+224,106,3,Very bad quality,2026-05-01 22:58:00
+357,161,2,Good value,2026-05-01 22:59:00
+36,143,5,Highly recommend,2026-05-01 23:00:00
+53,130,2,Poor packaging,2026-05-01 23:01:00
+460,112,5,Excellent!,2026-05-01 23:02:00
+357,151,3,Will not buy again,2026-05-01 23:03:00
+276,169,4,Good value,2026-05-01 23:04:00
+151,187,3,Good value,2026-05-01 23:05:00
+392,179,2,Very bad quality,2026-05-01 23:06:00
+199,114,1,Will not buy again,2026-05-01 23:07:00
+475,167,1,Will not buy again,2026-05-01 23:08:00
+443,100,4,Poor packaging,2026-05-01 23:09:00
+482,144,2,Good value,2026-05-01 23:10:00
+296,193,4,Excellent!,2026-05-01 23:11:00
+273,199,5,Excellent!,2026-05-01 23:12:00
+275,190,4,Average experience,2026-05-01 23:13:00
+378,128,5,Poor packaging,2026-05-01 23:14:00
+144,131,3,Very bad quality,2026-05-01 23:15:00
+142,142,2,Will not buy again,2026-05-01 23:16:00
+208,199,2,Worth the price,2026-05-01 23:17:00
+25,111,4,Will not buy again,2026-05-01 23:18:00
+439,160,3,Excellent!,2026-05-01 23:19:00
+73,137,5,Good value,2026-05-01 23:20:00
+382,191,2,Great product!,2026-05-01 23:21:00
+145,193,3,Worth the price,2026-05-01 23:22:00
+386,162,1,Not satisfied,2026-05-01 23:23:00
+466,128,3,Not satisfied,2026-05-01 23:24:00
+326,127,1,Worth the price,2026-05-01 23:25:00
+398,115,2,Excellent!,2026-05-01 23:26:00
+400,114,3,Great product!,2026-05-01 23:27:00
+132,195,4,Good value,2026-05-01 23:28:00
+240,175,3,Worth the price,2026-05-01 23:29:00
+462,103,3,Good value,2026-05-01 23:30:00
+35,119,2,Poor packaging,2026-05-01 23:31:00
+211,147,1,Excellent!,2026-05-01 23:32:00
+46,161,2,Highly recommend,2026-05-01 23:33:00
+17,173,4,Worth the price,2026-05-01 23:34:00
+482,122,5,Worth the price,2026-05-01 23:35:00
+186,126,2,Great product!,2026-05-01 23:36:00
+448,108,4,Great product!,2026-05-01 23:37:00
+471,123,2,Excellent!,2026-05-01 23:38:00
+257,152,5,Will not buy again,2026-05-01 23:39:00
+472,148,3,Worth the price,2026-05-01 23:40:00
+116,112,5,Average experience,2026-05-01 23:41:00
+186,191,2,Average experience,2026-05-01 23:42:00
+377,165,4,Excellent!,2026-05-01 23:43:00
+372,137,3,Will not buy again,2026-05-01 23:44:00
+106,103,1,Worth the price,2026-05-01 23:45:00
+408,130,4,Poor packaging,2026-05-01 23:46:00
+340,141,5,Good value,2026-05-01 23:47:00
+88,186,1,Great product!,2026-05-01 23:48:00
+418,175,4,Highly recommend,2026-05-01 23:49:00
+275,113,5,Great product!,2026-05-01 23:50:00
+299,185,4,Poor packaging,2026-05-01 23:51:00
+156,173,5,Poor packaging,2026-05-01 23:52:00
+236,132,4,Good value,2026-05-01 23:53:00
+283,176,3,Will not buy again,2026-05-01 23:54:00
+68,150,5,Average experience,2026-05-01 23:55:00
+348,169,1,Worth the price,2026-05-01 23:56:00
+335,147,3,Worth the price,2026-05-01 23:57:00
+379,117,2,Great product!,2026-05-01 23:58:00
+50,106,1,Very bad quality,2026-05-01 23:59:00
+354,118,2,Great product!,2026-05-02 00:00:00
+332,185,1,Good value,2026-05-02 00:01:00
+240,127,3,Good value,2026-05-02 00:02:00
+476,126,3,Not satisfied,2026-05-02 00:03:00
+464,134,2,Worth the price,2026-05-02 00:04:00
+185,124,2,Very bad quality,2026-05-02 00:05:00
+291,187,5,Great product!,2026-05-02 00:06:00
+249,194,3,Highly recommend,2026-05-02 00:07:00
+468,153,5,Very bad quality,2026-05-02 00:08:00
+68,172,3,Good value,2026-05-02 00:09:00
+337,100,4,Worth the price,2026-05-02 00:10:00
+152,121,3,Highly recommend,2026-05-02 00:11:00
+446,147,5,Great product!,2026-05-02 00:12:00
+334,137,4,Excellent!,2026-05-02 00:13:00
+372,188,2,Great product!,2026-05-02 00:14:00
+96,116,1,Very bad quality,2026-05-02 00:15:00
+429,134,5,Highly recommend,2026-05-02 00:16:00
+320,189,4,Good value,2026-05-02 00:17:00
+411,112,1,Worth the price,2026-05-02 00:18:00
+372,112,3,Not satisfied,2026-05-02 00:19:00
+145,149,5,Not satisfied,2026-05-02 00:20:00
+71,127,5,Poor packaging,2026-05-02 00:21:00
+229,176,5,Worth the price,2026-05-02 00:22:00
+248,165,2,Highly recommend,2026-05-02 00:23:00
+319,180,5,Poor packaging,2026-05-02 00:24:00
+121,153,3,Poor packaging,2026-05-02 00:25:00
+355,171,5,Will not buy again,2026-05-02 00:26:00
+335,193,5,Worth the price,2026-05-02 00:27:00
+398,130,3,Poor packaging,2026-05-02 00:28:00
+393,167,4,Great product!,2026-05-02 00:29:00
+207,115,5,Excellent!,2026-05-02 00:30:00
+90,103,4,Great product!,2026-05-02 00:31:00
+437,150,3,Not satisfied,2026-05-02 00:32:00
+208,171,1,Great product!,2026-05-02 00:33:00
+460,176,4,Great product!,2026-05-02 00:34:00
+10,105,4,Will not buy again,2026-05-02 00:35:00
+262,191,4,Highly recommend,2026-05-02 00:36:00
+401,171,5,Great product!,2026-05-02 00:37:00
+117,107,2,Worth the price,2026-05-02 00:38:00
+442,121,4,Excellent!,2026-05-02 00:39:00
+20,176,3,Excellent!,2026-05-02 00:40:00
+175,157,5,Highly recommend,2026-05-02 00:41:00
+336,116,2,Great product!,2026-05-02 00:42:00
+184,115,5,Very bad quality,2026-05-02 00:43:00
+489,181,3,Great product!,2026-05-02 00:44:00
+319,169,1,Good value,2026-05-02 00:45:00
+174,111,2,Poor packaging,2026-05-02 00:46:00
+96,104,2,Excellent!,2026-05-02 00:47:00
+474,172,1,Very bad quality,2026-05-02 00:48:00
+141,186,4,Excellent!,2026-05-02 00:49:00
+470,138,4,Very bad quality,2026-05-02 00:50:00
+489,177,2,Worth the price,2026-05-02 00:51:00
+492,130,4,Worth the price,2026-05-02 00:52:00
+447,133,5,Very bad quality,2026-05-02 00:53:00
+382,198,1,Worth the price,2026-05-02 00:54:00
+183,117,2,Good value,2026-05-02 00:55:00
+271,193,3,Average experience,2026-05-02 00:56:00
+180,189,3,Good value,2026-05-02 00:57:00
+324,173,4,Very bad quality,2026-05-02 00:58:00
+485,136,4,Poor packaging,2026-05-02 00:59:00
+480,118,2,Excellent!,2026-05-02 01:00:00
+236,135,2,Average experience,2026-05-02 01:01:00
+307,169,3,Poor packaging,2026-05-02 01:02:00
+77,147,4,Highly recommend,2026-05-02 01:03:00
+160,181,5,Excellent!,2026-05-02 01:04:00
+363,172,4,Worth the price,2026-05-02 01:05:00
+128,117,4,Not satisfied,2026-05-02 01:06:00
+309,189,2,Great product!,2026-05-02 01:07:00
+71,110,5,Worth the price,2026-05-02 01:08:00
+274,159,4,Very bad quality,2026-05-02 01:09:00
+37,166,2,Great product!,2026-05-02 01:10:00
+2,188,5,Not satisfied,2026-05-02 01:11:00
+216,129,1,Worth the price,2026-05-02 01:12:00
+419,194,4,Good value,2026-05-02 01:13:00
+258,191,4,Good value,2026-05-02 01:14:00
+395,164,5,Not satisfied,2026-05-02 01:15:00
+340,150,2,Average experience,2026-05-02 01:16:00
+195,167,1,Poor packaging,2026-05-02 01:17:00
+474,146,2,Worth the price,2026-05-02 01:18:00
+364,196,4,Very bad quality,2026-05-02 01:19:00
+462,185,4,Good value,2026-05-02 01:20:00
+102,173,4,Average experience,2026-05-02 01:21:00
+116,155,1,Will not buy again,2026-05-02 01:22:00
+114,189,3,Great product!,2026-05-02 01:23:00
+469,109,4,Not satisfied,2026-05-02 01:24:00
+407,124,3,Poor packaging,2026-05-02 01:25:00
+68,183,5,Good value,2026-05-02 01:26:00
+54,168,5,Great product!,2026-05-02 01:27:00
+69,145,3,Highly recommend,2026-05-02 01:28:00
+484,146,4,Not satisfied,2026-05-02 01:29:00
+363,100,3,Highly recommend,2026-05-02 01:30:00
+96,112,3,Poor packaging,2026-05-02 01:31:00
+106,156,2,Average experience,2026-05-02 01:32:00
+155,141,1,Poor packaging,2026-05-02 01:33:00
+491,155,2,Poor packaging,2026-05-02 01:34:00
+490,198,4,Highly recommend,2026-05-02 01:35:00
+491,156,2,Highly recommend,2026-05-02 01:36:00
+73,147,5,Worth the price,2026-05-02 01:37:00
+94,137,1,Very bad quality,2026-05-02 01:38:00
+431,187,2,Great product!,2026-05-02 01:39:00
+118,159,5,Not satisfied,2026-05-02 01:40:00
+453,189,1,Will not buy again,2026-05-02 01:41:00
+156,117,4,Excellent!,2026-05-02 01:42:00
+496,111,2,Will not buy again,2026-05-02 01:43:00
+240,129,4,Not satisfied,2026-05-02 01:44:00
+200,158,1,Worth the price,2026-05-02 01:45:00
+289,115,2,Not satisfied,2026-05-02 01:46:00
+93,192,2,Poor packaging,2026-05-02 01:47:00
+50,132,1,Average experience,2026-05-02 01:48:00
+27,186,5,Very bad quality,2026-05-02 01:49:00
+200,167,2,Excellent!,2026-05-02 01:50:00
+343,177,5,Poor packaging,2026-05-02 01:51:00
+430,185,3,Worth the price,2026-05-02 01:52:00
+466,187,3,Poor packaging,2026-05-02 01:53:00
+388,163,3,Very bad quality,2026-05-02 01:54:00
+306,179,5,Good value,2026-05-02 01:55:00
+27,182,2,Very bad quality,2026-05-02 01:56:00
+330,179,2,Very bad quality,2026-05-02 01:57:00
+249,111,5,Not satisfied,2026-05-02 01:58:00
+95,149,3,Worth the price,2026-05-02 01:59:00
+305,124,4,Great product!,2026-05-02 02:00:00
+101,179,5,Excellent!,2026-05-02 02:01:00
+295,152,1,Will not buy again,2026-05-02 02:02:00
+373,186,3,Not satisfied,2026-05-02 02:03:00
+1,135,5,Worth the price,2026-05-02 02:04:00
+434,140,2,Worth the price,2026-05-02 02:05:00
+92,197,3,Good value,2026-05-02 02:06:00
+397,127,5,Will not buy again,2026-05-02 02:07:00
+28,111,2,Highly recommend,2026-05-02 02:08:00
+438,171,1,Poor packaging,2026-05-02 02:09:00
+234,145,3,Good value,2026-05-02 02:10:00
+410,137,3,Very bad quality,2026-05-02 02:11:00
+17,139,3,Poor packaging,2026-05-02 02:12:00
+157,191,1,Will not buy again,2026-05-02 02:13:00
+310,196,1,Poor packaging,2026-05-02 02:14:00
+68,163,4,Good value,2026-05-02 02:15:00
+371,137,1,Average experience,2026-05-02 02:16:00
+334,154,3,Very bad quality,2026-05-02 02:17:00
+67,135,3,Will not buy again,2026-05-02 02:18:00
+318,131,2,Great product!,2026-05-02 02:19:00
+495,100,1,Great product!,2026-05-02 02:20:00
+423,114,2,Average experience,2026-05-02 02:21:00
+257,120,5,Not satisfied,2026-05-02 02:22:00
+386,183,3,Will not buy again,2026-05-02 02:23:00
+333,182,5,Not satisfied,2026-05-02 02:24:00
+482,137,2,Average experience,2026-05-02 02:25:00
+13,104,5,Not satisfied,2026-05-02 02:26:00
+222,153,2,Average experience,2026-05-02 02:27:00
+161,172,5,Poor packaging,2026-05-02 02:28:00
+229,149,1,Excellent!,2026-05-02 02:29:00
+108,162,2,Great product!,2026-05-02 02:30:00
+80,198,5,Good value,2026-05-02 02:31:00
+81,182,3,Poor packaging,2026-05-02 02:32:00
+2,105,5,Good value,2026-05-02 02:33:00
+204,131,4,Not satisfied,2026-05-02 02:34:00
+380,122,3,Poor packaging,2026-05-02 02:35:00
+394,115,3,Great product!,2026-05-02 02:36:00
+323,183,2,Worth the price,2026-05-02 02:37:00
+103,149,1,Good value,2026-05-02 02:38:00
+409,192,1,Poor packaging,2026-05-02 02:39:00
+461,186,4,Will not buy again,2026-05-02 02:40:00
+408,113,1,Highly recommend,2026-05-02 02:41:00
+225,158,1,Worth the price,2026-05-02 02:42:00
+68,174,5,Average experience,2026-05-02 02:43:00
+452,143,3,Very bad quality,2026-05-02 02:44:00
+397,135,3,Average experience,2026-05-02 02:45:00
+229,125,2,Excellent!,2026-05-02 02:46:00
+21,198,5,Average experience,2026-05-02 02:47:00
+385,112,3,Very bad quality,2026-05-02 02:48:00
+60,107,4,Good value,2026-05-02 02:49:00
+170,151,5,Average experience,2026-05-02 02:50:00
+303,197,2,Will not buy again,2026-05-02 02:51:00
+111,134,3,Great product!,2026-05-02 02:52:00
+66,143,2,Highly recommend,2026-05-02 02:53:00
+336,121,2,Excellent!,2026-05-02 02:54:00
+401,138,1,Excellent!,2026-05-02 02:55:00
+153,195,2,Good value,2026-05-02 02:56:00
+461,151,5,Worth the price,2026-05-02 02:57:00
+422,177,1,Average experience,2026-05-02 02:58:00
+155,135,3,Worth the price,2026-05-02 02:59:00
+246,102,5,Good value,2026-05-02 03:00:00
+277,188,1,Good value,2026-05-02 03:01:00
+418,165,3,Average experience,2026-05-02 03:02:00
+155,151,4,Good value,2026-05-02 03:03:00
+416,128,1,Will not buy again,2026-05-02 03:04:00
+169,156,5,Poor packaging,2026-05-02 03:05:00
+425,138,4,Highly recommend,2026-05-02 03:06:00
+340,146,3,Will not buy again,2026-05-02 03:07:00
+458,119,4,Excellent!,2026-05-02 03:08:00
+295,136,2,Great product!,2026-05-02 03:09:00
+349,110,2,Not satisfied,2026-05-02 03:10:00
+383,135,3,Good value,2026-05-02 03:11:00
+384,158,5,Will not buy again,2026-05-02 03:12:00
+474,151,3,Good value,2026-05-02 03:13:00
+179,184,5,Worth the price,2026-05-02 03:14:00
+180,193,1,Will not buy again,2026-05-02 03:15:00
+325,181,2,Worth the price,2026-05-02 03:16:00
+98,177,4,Excellent!,2026-05-02 03:17:00
+288,119,3,Poor packaging,2026-05-02 03:18:00
+378,117,2,Not satisfied,2026-05-02 03:19:00
+194,181,4,Good value,2026-05-02 03:20:00
+443,161,5,Excellent!,2026-05-02 03:21:00
+435,137,2,Great product!,2026-05-02 03:22:00
+427,133,5,Will not buy again,2026-05-02 03:23:00
+468,171,2,Excellent!,2026-05-02 03:24:00
+264,155,5,Excellent!,2026-05-02 03:25:00
+11,163,2,Excellent!,2026-05-02 03:26:00
+160,123,1,Excellent!,2026-05-02 03:27:00
+332,156,2,Worth the price,2026-05-02 03:28:00
+399,157,2,Average experience,2026-05-02 03:29:00
+330,139,4,Great product!,2026-05-02 03:30:00
+132,164,1,Not satisfied,2026-05-02 03:31:00
+280,103,5,Poor packaging,2026-05-02 03:32:00
+181,104,2,Will not buy again,2026-05-02 03:33:00
+445,188,4,Not satisfied,2026-05-02 03:34:00
+19,150,3,Poor packaging,2026-05-02 03:35:00
+277,133,5,Very bad quality,2026-05-02 03:36:00
+284,160,2,Excellent!,2026-05-02 03:37:00
+410,138,2,Very bad quality,2026-05-02 03:38:00
+2,134,2,Not satisfied,2026-05-02 03:39:00
+190,136,4,Excellent!,2026-05-02 03:40:00
+463,184,4,Very bad quality,2026-05-02 03:41:00
+282,104,3,Will not buy again,2026-05-02 03:42:00
+362,197,2,Poor packaging,2026-05-02 03:43:00
+144,175,5,Highly recommend,2026-05-02 03:44:00
+79,131,2,Very bad quality,2026-05-02 03:45:00
+379,181,4,Will not buy again,2026-05-02 03:46:00
+437,102,4,Great product!,2026-05-02 03:47:00
+338,111,1,Very bad quality,2026-05-02 03:48:00
+338,174,1,Highly recommend,2026-05-02 03:49:00
+429,142,3,Not satisfied,2026-05-02 03:50:00
+482,139,1,Highly recommend,2026-05-02 03:51:00
+373,117,5,Great product!,2026-05-02 03:52:00
+482,172,1,Great product!,2026-05-02 03:53:00
+263,185,2,Excellent!,2026-05-02 03:54:00
+21,192,3,Not satisfied,2026-05-02 03:55:00
+77,135,2,Worth the price,2026-05-02 03:56:00
+365,139,3,Very bad quality,2026-05-02 03:57:00
+211,192,5,Not satisfied,2026-05-02 03:58:00
+244,154,2,Poor packaging,2026-05-02 03:59:00
+58,129,3,Good value,2026-05-02 04:00:00
+151,154,1,Excellent!,2026-05-02 04:01:00
+415,196,5,Highly recommend,2026-05-02 04:02:00
+85,127,2,Highly recommend,2026-05-02 04:03:00
+51,108,1,Not satisfied,2026-05-02 04:04:00
+418,189,2,Will not buy again,2026-05-02 04:05:00
+114,130,2,Very bad quality,2026-05-02 04:06:00
+286,122,3,Excellent!,2026-05-02 04:07:00
+273,157,5,Worth the price,2026-05-02 04:08:00
+106,184,5,Good value,2026-05-02 04:09:00
+109,146,2,Not satisfied,2026-05-02 04:10:00
+41,192,1,Average experience,2026-05-02 04:11:00
+223,181,4,Average experience,2026-05-02 04:12:00
+427,156,5,Very bad quality,2026-05-02 04:13:00
+150,109,2,Not satisfied,2026-05-02 04:14:00
+373,111,5,Excellent!,2026-05-02 04:15:00
+292,171,4,Very bad quality,2026-05-02 04:16:00
+148,126,4,Worth the price,2026-05-02 04:17:00
+42,134,4,Worth the price,2026-05-02 04:18:00
+162,142,3,Average experience,2026-05-02 04:19:00
+351,139,1,Very bad quality,2026-05-02 04:20:00
+279,141,2,Worth the price,2026-05-02 04:21:00
+49,184,3,Worth the price,2026-05-02 04:22:00
+409,196,5,Highly recommend,2026-05-02 04:23:00
+198,142,4,Excellent!,2026-05-02 04:24:00
+425,175,1,Will not buy again,2026-05-02 04:25:00
+310,112,2,Poor packaging,2026-05-02 04:26:00
+308,193,2,Average experience,2026-05-02 04:27:00
+27,181,5,Good value,2026-05-02 04:28:00
+62,163,2,Will not buy again,2026-05-02 04:29:00
+498,196,4,Worth the price,2026-05-02 04:30:00
+239,187,3,Very bad quality,2026-05-02 04:31:00
+261,142,4,Very bad quality,2026-05-02 04:32:00
+433,114,2,Worth the price,2026-05-02 04:33:00
+209,126,5,Highly recommend,2026-05-02 04:34:00
+456,191,5,Excellent!,2026-05-02 04:35:00
+443,112,3,Highly recommend,2026-05-02 04:36:00
+498,172,5,Not satisfied,2026-05-02 04:37:00
+138,173,2,Poor packaging,2026-05-02 04:38:00
+195,109,2,Good value,2026-05-02 04:39:00
+19,166,5,Poor packaging,2026-05-02 04:40:00
+207,138,2,Good value,2026-05-02 04:41:00
+89,153,1,Worth the price,2026-05-02 04:42:00
+237,116,4,Excellent!,2026-05-02 04:43:00
+25,139,5,Very bad quality,2026-05-02 04:44:00
+127,187,1,Not satisfied,2026-05-02 04:45:00
+407,162,4,Very bad quality,2026-05-02 04:46:00
+391,189,1,Excellent!,2026-05-02 04:47:00
+468,161,2,Highly recommend,2026-05-02 04:48:00
+244,171,5,Average experience,2026-05-02 04:49:00
+304,101,3,Excellent!,2026-05-02 04:50:00
+241,181,5,Great product!,2026-05-02 04:51:00
+424,174,3,Worth the price,2026-05-02 04:52:00
+497,144,5,Poor packaging,2026-05-02 04:53:00
+296,109,2,Good value,2026-05-02 04:54:00
+291,180,1,Excellent!,2026-05-02 04:55:00
+126,128,5,Poor packaging,2026-05-02 04:56:00
+490,154,1,Great product!,2026-05-02 04:57:00
+357,133,1,Not satisfied,2026-05-02 04:58:00
+471,197,2,Average experience,2026-05-02 04:59:00
+422,165,4,Poor packaging,2026-05-02 05:00:00
+454,187,3,Great product!,2026-05-02 05:01:00
+248,124,2,Not satisfied,2026-05-02 05:02:00
+51,129,3,Very bad quality,2026-05-02 05:03:00
+100,106,4,Poor packaging,2026-05-02 05:04:00
+288,166,2,Very bad quality,2026-05-02 05:05:00
+355,103,3,Average experience,2026-05-02 05:06:00
+384,184,3,Great product!,2026-05-02 05:07:00
+370,195,4,Very bad quality,2026-05-02 05:08:00
+99,173,1,Will not buy again,2026-05-02 05:09:00
+423,161,4,Poor packaging,2026-05-02 05:10:00
+459,136,2,Very bad quality,2026-05-02 05:11:00
+430,101,4,Excellent!,2026-05-02 05:12:00
+458,161,3,Will not buy again,2026-05-02 05:13:00
+36,162,2,Average experience,2026-05-02 05:14:00
+22,144,5,Very bad quality,2026-05-02 05:15:00
+405,172,4,Not satisfied,2026-05-02 05:16:00
+273,114,4,Poor packaging,2026-05-02 05:17:00
+24,164,2,Excellent!,2026-05-02 05:18:00
+205,157,2,Great product!,2026-05-02 05:19:00
+339,158,2,Will not buy again,2026-05-02 05:20:00
+190,108,3,Excellent!,2026-05-02 05:21:00
+416,100,4,Good value,2026-05-02 05:22:00
+283,169,2,Highly recommend,2026-05-02 05:23:00
+57,107,4,Not satisfied,2026-05-02 05:24:00
+153,153,2,Not satisfied,2026-05-02 05:25:00
+262,189,1,Excellent!,2026-05-02 05:26:00
+202,151,3,Will not buy again,2026-05-02 05:27:00
+32,122,4,Poor packaging,2026-05-02 05:28:00
+357,164,5,Great product!,2026-05-02 05:29:00
+423,197,2,Very bad quality,2026-05-02 05:30:00
+452,154,3,Not satisfied,2026-05-02 05:31:00
+5,196,1,Worth the price,2026-05-02 05:32:00
+179,194,1,Good value,2026-05-02 05:33:00
+207,108,5,Highly recommend,2026-05-02 05:34:00
+469,130,1,Great product!,2026-05-02 05:35:00
+434,116,3,Very bad quality,2026-05-02 05:36:00
+390,159,1,Not satisfied,2026-05-02 05:37:00
+111,176,4,Will not buy again,2026-05-02 05:38:00
+76,182,1,Average experience,2026-05-02 05:39:00
+380,144,1,Not satisfied,2026-05-02 05:40:00
+47,134,1,Will not buy again,2026-05-02 05:41:00
+195,174,3,Worth the price,2026-05-02 05:42:00
+495,133,3,Excellent!,2026-05-02 05:43:00
+469,130,3,Highly recommend,2026-05-02 05:44:00
+415,106,3,Worth the price,2026-05-02 05:45:00
+330,163,3,Highly recommend,2026-05-02 05:46:00
+297,174,4,Excellent!,2026-05-02 05:47:00
+387,108,5,Average experience,2026-05-02 05:48:00
+345,179,3,Poor packaging,2026-05-02 05:49:00
+451,114,5,Not satisfied,2026-05-02 05:50:00
+462,190,5,Average experience,2026-05-02 05:51:00
+493,123,3,Not satisfied,2026-05-02 05:52:00
+460,107,1,Highly recommend,2026-05-02 05:53:00
+137,161,4,Good value,2026-05-02 05:54:00
+307,192,4,Highly recommend,2026-05-02 05:55:00
+264,122,5,Very bad quality,2026-05-02 05:56:00
+433,161,3,Will not buy again,2026-05-02 05:57:00
+268,101,2,Highly recommend,2026-05-02 05:58:00
+210,171,2,Good value,2026-05-02 05:59:00
+443,166,1,Average experience,2026-05-02 06:00:00
+205,166,1,Excellent!,2026-05-02 06:01:00
+7,116,5,Worth the price,2026-05-02 06:02:00
+273,158,5,Poor packaging,2026-05-02 06:03:00
+318,135,4,Poor packaging,2026-05-02 06:04:00
+222,107,5,Great product!,2026-05-02 06:05:00
+339,142,4,Very bad quality,2026-05-02 06:06:00
+84,107,5,Highly recommend,2026-05-02 06:07:00
+353,164,2,Will not buy again,2026-05-02 06:08:00
+364,169,5,Poor packaging,2026-05-02 06:09:00
+69,108,5,Good value,2026-05-02 06:10:00
+109,156,1,Highly recommend,2026-05-02 06:11:00
+133,155,4,Very bad quality,2026-05-02 06:12:00
+362,137,4,Will not buy again,2026-05-02 06:13:00
+140,139,2,Highly recommend,2026-05-02 06:14:00
+146,116,2,Good value,2026-05-02 06:15:00
+323,130,2,Poor packaging,2026-05-02 06:16:00
+150,142,1,Not satisfied,2026-05-02 06:17:00
+5,131,3,Very bad quality,2026-05-02 06:18:00
+82,128,2,Worth the price,2026-05-02 06:19:00
+307,165,1,Poor packaging,2026-05-02 06:20:00
+442,126,2,Excellent!,2026-05-02 06:21:00
+393,128,2,Not satisfied,2026-05-02 06:22:00
+411,133,2,Poor packaging,2026-05-02 06:23:00
+117,121,1,Poor packaging,2026-05-02 06:24:00
+211,182,4,Good value,2026-05-02 06:25:00
+382,100,2,Highly recommend,2026-05-02 06:26:00
+46,118,3,Not satisfied,2026-05-02 06:27:00
+56,152,2,Will not buy again,2026-05-02 06:28:00
+367,186,5,Worth the price,2026-05-02 06:29:00
+459,197,1,Good value,2026-05-02 06:30:00
+372,145,4,Good value,2026-05-02 06:31:00
+356,144,1,Will not buy again,2026-05-02 06:32:00
+397,178,5,Worth the price,2026-05-02 06:33:00
+298,144,5,Not satisfied,2026-05-02 06:34:00
+52,102,2,Very bad quality,2026-05-02 06:35:00
+141,142,4,Highly recommend,2026-05-02 06:36:00
+84,114,2,Poor packaging,2026-05-02 06:37:00
+498,178,1,Great product!,2026-05-02 06:38:00
+60,176,3,Good value,2026-05-02 06:39:00
+144,101,3,Excellent!,2026-05-02 06:40:00
+146,108,1,Will not buy again,2026-05-02 06:41:00
+409,162,4,Great product!,2026-05-02 06:42:00
+36,190,5,Highly recommend,2026-05-02 06:43:00
+229,123,4,Not satisfied,2026-05-02 06:44:00
+134,109,4,Worth the price,2026-05-02 06:45:00
+390,128,2,Worth the price,2026-05-02 06:46:00
+467,174,2,Very bad quality,2026-05-02 06:47:00
+431,136,1,Very bad quality,2026-05-02 06:48:00
+220,157,4,Not satisfied,2026-05-02 06:49:00
+449,198,3,Poor packaging,2026-05-02 06:50:00
+329,189,4,Highly recommend,2026-05-02 06:51:00
+337,117,4,Very bad quality,2026-05-02 06:52:00
+465,127,1,Average experience,2026-05-02 06:53:00
+33,119,4,Average experience,2026-05-02 06:54:00
+294,143,2,Great product!,2026-05-02 06:55:00
+188,175,4,Poor packaging,2026-05-02 06:56:00
+140,150,1,Good value,2026-05-02 06:57:00
+427,193,4,Average experience,2026-05-02 06:58:00
+165,179,1,Good value,2026-05-02 06:59:00
+128,118,2,Very bad quality,2026-05-02 07:00:00
+322,102,2,Will not buy again,2026-05-02 07:01:00
+134,145,1,Very bad quality,2026-05-02 07:02:00
+417,120,3,Worth the price,2026-05-02 07:03:00
+192,106,5,Great product!,2026-05-02 07:04:00
+323,193,1,Average experience,2026-05-02 07:05:00
+339,141,2,Good value,2026-05-02 07:06:00
+304,119,2,Will not buy again,2026-05-02 07:07:00
+418,164,4,Great product!,2026-05-02 07:08:00
+335,101,4,Worth the price,2026-05-02 07:09:00
+115,147,1,Will not buy again,2026-05-02 07:10:00
+8,153,5,Very bad quality,2026-05-02 07:11:00
+417,178,5,Excellent!,2026-05-02 07:12:00
+164,145,1,Will not buy again,2026-05-02 07:13:00
+21,156,3,Average experience,2026-05-02 07:14:00
+366,157,1,Great product!,2026-05-02 07:15:00
+286,102,1,Excellent!,2026-05-02 07:16:00
+311,132,2,Great product!,2026-05-02 07:17:00
+270,182,1,Not satisfied,2026-05-02 07:18:00
+208,116,5,Poor packaging,2026-05-02 07:19:00
+496,168,5,Will not buy again,2026-05-02 07:20:00
+425,136,5,Not satisfied,2026-05-02 07:21:00
+38,183,2,Very bad quality,2026-05-02 07:22:00
+484,129,1,Poor packaging,2026-05-02 07:23:00
+331,101,1,Average experience,2026-05-02 07:24:00
+202,110,3,Worth the price,2026-05-02 07:25:00
+268,124,2,Worth the price,2026-05-02 07:26:00
+114,172,1,Excellent!,2026-05-02 07:27:00
+3,197,3,Worth the price,2026-05-02 07:28:00
+227,169,2,Highly recommend,2026-05-02 07:29:00
+185,144,1,Average experience,2026-05-02 07:30:00
+445,132,3,Great product!,2026-05-02 07:31:00
+252,100,4,Great product!,2026-05-02 07:32:00
+169,197,4,Poor packaging,2026-05-02 07:33:00
+166,117,1,Great product!,2026-05-02 07:34:00
+10,155,3,Will not buy again,2026-05-02 07:35:00
+195,147,4,Very bad quality,2026-05-02 07:36:00
+48,155,3,Great product!,2026-05-02 07:37:00
+79,176,4,Excellent!,2026-05-02 07:38:00
+460,173,5,Good value,2026-05-02 07:39:00
+23,144,4,Worth the price,2026-05-02 07:40:00
+278,113,4,Excellent!,2026-05-02 07:41:00
+178,169,5,Excellent!,2026-05-02 07:42:00
+379,193,5,Great product!,2026-05-02 07:43:00
+373,186,4,Highly recommend,2026-05-02 07:44:00
+425,177,2,Excellent!,2026-05-02 07:45:00
+285,199,2,Good value,2026-05-02 07:46:00
+32,167,5,Great product!,2026-05-02 07:47:00
+19,121,3,Good value,2026-05-02 07:48:00
+165,158,5,Not satisfied,2026-05-02 07:49:00
+109,143,3,Highly recommend,2026-05-02 07:50:00
+334,166,2,Highly recommend,2026-05-02 07:51:00
+168,106,4,Average experience,2026-05-02 07:52:00
+91,134,5,Poor packaging,2026-05-02 07:53:00
+200,194,4,Very bad quality,2026-05-02 07:54:00
+466,117,4,Very bad quality,2026-05-02 07:55:00
+110,102,5,Poor packaging,2026-05-02 07:56:00
+14,158,4,Average experience,2026-05-02 07:57:00
+314,128,2,Not satisfied,2026-05-02 07:58:00
+119,118,3,Will not buy again,2026-05-02 07:59:00
+448,123,5,Very bad quality,2026-05-02 08:00:00
+496,139,4,Great product!,2026-05-02 08:01:00
+315,133,3,Highly recommend,2026-05-02 08:02:00
+439,176,4,Average experience,2026-05-02 08:03:00
+369,143,1,Average experience,2026-05-02 08:04:00
+304,144,1,Will not buy again,2026-05-02 08:05:00
+1,126,5,Good value,2026-05-02 08:06:00
+9,161,3,Excellent!,2026-05-02 08:07:00
+221,176,2,Worth the price,2026-05-02 08:08:00
+381,182,4,Very bad quality,2026-05-02 08:09:00
+444,198,2,Very bad quality,2026-05-02 08:10:00
+61,112,3,Will not buy again,2026-05-02 08:11:00
+336,138,3,Excellent!,2026-05-02 08:12:00
+119,141,3,Will not buy again,2026-05-02 08:13:00
+322,147,2,Good value,2026-05-02 08:14:00
+86,104,4,Average experience,2026-05-02 08:15:00
+498,197,1,Average experience,2026-05-02 08:16:00
+228,145,1,Great product!,2026-05-02 08:17:00
+444,173,3,Will not buy again,2026-05-02 08:18:00
+51,168,5,Highly recommend,2026-05-02 08:19:00
+277,181,2,Not satisfied,2026-05-02 08:20:00
+380,109,3,Will not buy again,2026-05-02 08:21:00
+442,163,5,Worth the price,2026-05-02 08:22:00
+68,154,1,Highly recommend,2026-05-02 08:23:00
+174,159,1,Very bad quality,2026-05-02 08:24:00
+332,175,4,Highly recommend,2026-05-02 08:25:00
+459,170,2,Excellent!,2026-05-02 08:26:00
+289,182,3,Average experience,2026-05-02 08:27:00
+68,175,1,Great product!,2026-05-02 08:28:00
+487,183,4,Average experience,2026-05-02 08:29:00
+116,170,4,Poor packaging,2026-05-02 08:30:00
+433,163,2,Highly recommend,2026-05-02 08:31:00
+426,143,3,Will not buy again,2026-05-02 08:32:00
+472,155,4,Good value,2026-05-02 08:33:00
+250,158,4,Good value,2026-05-02 08:34:00
+119,114,1,Great product!,2026-05-02 08:35:00
+51,193,3,Good value,2026-05-02 08:36:00
+316,110,4,Will not buy again,2026-05-02 08:37:00
+471,175,1,Poor packaging,2026-05-02 08:38:00
+317,128,4,Average experience,2026-05-02 08:39:00
+197,191,4,Very bad quality,2026-05-02 08:40:00
+367,114,3,Average experience,2026-05-02 08:41:00
+382,114,4,Not satisfied,2026-05-02 08:42:00
+475,152,2,Poor packaging,2026-05-02 08:43:00
+438,195,2,Highly recommend,2026-05-02 08:44:00
+265,106,1,Will not buy again,2026-05-02 08:45:00
+478,172,4,Great product!,2026-05-02 08:46:00
+257,187,2,Good value,2026-05-02 08:47:00
+285,117,1,Will not buy again,2026-05-02 08:48:00
+94,190,5,Worth the price,2026-05-02 08:49:00
+66,106,3,Very bad quality,2026-05-02 08:50:00
+187,130,3,Average experience,2026-05-02 08:51:00
+448,133,1,Highly recommend,2026-05-02 08:52:00
+224,145,3,Average experience,2026-05-02 08:53:00
+25,120,2,Great product!,2026-05-02 08:54:00
+347,183,3,Average experience,2026-05-02 08:55:00
+332,134,5,Good value,2026-05-02 08:56:00
+52,129,4,Not satisfied,2026-05-02 08:57:00
+483,102,4,Average experience,2026-05-02 08:58:00
+325,142,5,Great product!,2026-05-02 08:59:00
+433,191,3,Highly recommend,2026-05-02 09:00:00
+130,132,3,Highly recommend,2026-05-02 09:01:00
+151,147,2,Not satisfied,2026-05-02 09:02:00
+51,127,3,Great product!,2026-05-02 09:03:00
+221,123,4,Worth the price,2026-05-02 09:04:00
+112,179,4,Poor packaging,2026-05-02 09:05:00
+140,115,1,Excellent!,2026-05-02 09:06:00
+282,129,3,Worth the price,2026-05-02 09:07:00
+294,137,1,Highly recommend,2026-05-02 09:08:00
+195,177,3,Great product!,2026-05-02 09:09:00
+433,185,2,Average experience,2026-05-02 09:10:00
+445,167,3,Poor packaging,2026-05-02 09:11:00
+14,189,3,Average experience,2026-05-02 09:12:00
+117,141,4,Will not buy again,2026-05-02 09:13:00
+88,146,5,Good value,2026-05-02 09:14:00
+279,131,3,Average experience,2026-05-02 09:15:00
+295,114,1,Poor packaging,2026-05-02 09:16:00
+313,145,5,Highly recommend,2026-05-02 09:17:00
+149,107,5,Not satisfied,2026-05-02 09:18:00
+323,153,4,Worth the price,2026-05-02 09:19:00
